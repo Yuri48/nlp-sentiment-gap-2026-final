@@ -1,0 +1,1285 @@
+1 
+ 
+ 
+ 
+ 
+Surveys of Consumers Technical Report 
+ 
+ 
+Technical Documentation for the  
+2024 Methodological Transition to Web Surveys 
+ 
+ 
+ 
+ 
+ 
+April 5, 2024 
+ 
+Click here for the most up to date version 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Suggested citation:  Surveys of Consumers. Technical Documentation for the 2024 Methodological 
+Transition to Web Surveys, 2024. 
+ 
+ 
+ 
+ 
+ 
+Copyright © 2024 by the Regents of the University of Michigan 
+ 
+
+2 
+ 
+ 
+This report provides data users with information about the sample design, data collection methods, data 
+processing procedures, response rates, weighting and variance estimation during the Surveys of 
+Consumers’ methodological transition in 2024 from a telephone survey using a random digit dialing 
+(RDD) cell phone frame to a web survey using address-based sampling (ABS): 
+• January – March 2024: RDD Cell Telephone Surveys 
+• April – June 2024: RDD Cell Telephone Surveys and ABS Web Surveys 
+• July 2024 onward: ABS Web Surveys 
+Section 1 reports sampling methods used for Surveys of Consumers (SOC) since 1978, including both the 
+household and adult (within household) sampling. This report also provides a discussion on the planned 
+sample size for the transition period from RDD cell phone surveys to ABS web surveys.  
+Section 2 describes the data collection methods used in 2024.  This section also provides data users with 
+information about the response rates expected under the current data collection protocols. 
+Section 3 discusses standard data editing procedures, including coding open-ended responses, and 
+addresses the steps taken for ensuring data quality.  
+Section 4 conceptualizes the method effects for this methodological transition, including their 
+implications for the interpretation of monthly estimates.  
+Finally, section 5 describes the weighting and variance estimation methods used in SOC 2024. This 
+report presents the steps used to create the analytical weights for analyzing the data from the 
+households and advises data users on the proper variance estimation method. 
+  
+3 
+ 
+1. Sample Design 
+1.1. Sample Design Objectives 
+The sample design aims to enhance the study of changes in economic attitudes over time by 
+incorporating a rotating panel sample in an ongoing monthly survey program. Each month, an 
+independent cross-sectional sample is drawn; those who completed interviews in a given month 
+become eligible for re-interviews approximately six and twelve months later. Thus, each monthly sample 
+is composed of a mix of interviews from the independent cross-sectional sample (hereinafter called the 
+fresh sample) and the recontact sample. Due to periodic adjustments to the sample design, there is 
+some variation across time in the proportion of fresh and recontact samples. 1 The survey population 
+includes households from the coterminous United States (48 states plus the District of Columbia). 
+The Surveys of Consumers (SOC) has been a monthly telephone survey with random digit dialing 
+sampling since 1978 and will transition completely to monthly web surveys with address based sampling 
+by July 2024. This document discusses the telephone and web survey methodologies and the sample 
+plan for the transition period between April 2024 to June 2024.2  
+Table 1 presents the SOC sampling frame and data collection method by survey period. From January 
+1978 through July 2012, a landline telephone frame (Landline RDD Sampling Frame) was used to draw 
+independent cross-sectional samples of households for participation in the surveys. From July 2012 to 
+January 2015, this monthly landline telephone sample was supplemented by a cell telephone sample. 
+Since January 2015, the SOC has used a RDD cell telephone sampling frame. As outlined in Section 1.4, 
+there will be a transition period from April 2024 to June 2024 where the published estimates will be 
+from RDD cell telephone interviews and ABS web interviews. Starting in July 2024, the ABS frame will be 
+used to conduct web interviews. While this section details the prescreening and selection protocols in 
+the landline and cell RDD frames and ABS frames, Section 5 presents the weighting procedures using 
+RDD cell telephone sampling and ABS sampling protocols. 
+  
+                                                            
+1 There is periodic variation in the proportions of fresh and recontact samples, primarily due to adjustments in the 
+sample design; exact proportions can be found in the monthly micro-data files. 
+2 Data users who are interested in data prior to January 1978 should refer to the contemporaneous methodology 
+reports from those previous time periods. 
+4 
+ 
+Table 1. Surveys of Consumers Sampling Frame and Data Collection Method 
+Survey Period Sampling Frame Data Collection Method 
+Nov. 1952 – 
+Dec. 1977 Area Probability Sampling In-person interviewing  
+Jan. 1978 – 
+Sep. 1993 
+Landline Random Digital Dialing (RDD) 
+Sampling Telephone interviewing 
+Oct. 1993 – 
+Jul. 2012 Landline RDD Sampling Computer-assisted telephone interviewing (CATI) 
+Jul. 2012 – 
+Dec. 2014* Dual RDD Sampling  CATI 
+Jan. 2015 – 
+Mar. 2024** Cell RDD Sampling  CATI 
+Apr. 2024 – 
+Jun. 2024 
+Cell RDD Sampling 
+Address Based Sampling (ABS) 
+CATI based on Cell RDD frame 
+Web interviewing based on ABS frame 
+Jul. 2024 – 
+ongoing ABS Web interviewing 
+* The Cell (RDD) sample was added in July 2012,  and the 6-month re-interview Cell (RDD) sample was 
+added in January 2013.  
+** The fresh sample was drawn only from the Cell (RDD) sample starting in January 2015. The re-interview 
+landline sample was included till June 2016. 
+  
+5 
+ 
+1.2. Sampling Frames used in the Surveys of Consumers 
+1.2.1. Landline (RDD) Sampling Frame (1978-2014) 
+During this period, random digit dialing (RDD) telephone sampling was used to draw the monthly SOC 
+national probability sample. From January 1978 to October 1993, the SOC drew a nationally 
+representative sample of telephone numbers from the University of Michigan Institute for Social 
+Research Survey Research Center (SRC)’s Waksberg-Mitofsky hundred series frame. After a transition 
+period from October 1993 to February 1994, starting February 1994, the SOC sample was selected from 
+a list-assisted RDD frame using the Marketing Systems Group’s GENESYS Sampling System.  
+SRC’s Waksberg-Mitofsky hundred series frame (January 1978 – October 1993) 
+Starting 1978, the SOC drew monthly samples using a two-stage design from the Survey Research 
+Center’s (SRC) Waksberg-Mitofsky hundred series frame (Waksberg, 1978).  This frame used quarterly 
+data from the telecommunications company AT&T. AT&T also allowed the SRC to check with their 
+agents if a noncontact number was assigned to a household.  
+List-assisted hundred series frame (February 1994 – December 2014) 
+Starting February 1994, the SOC drew monthly samples using a list-assisted hundred series frame (Brick, 
+Waksberg, Kulp, and Starer, 1995; Casady and Lepkowski, 1993; Tucker, Lepkowski, and Pekarski, 2002).  
+In this frame, the hundred series is defined in the same way as in the Waksberg-Mitofsky frame. This 
+list-assisted sampling frame consists of all hundred series3 which have at least one listed household 
+number. The frame is produced by aggregating all directory-listed household telephone numbers to the 
+hundred series level. Because of the way telephone numbers are assigned, a hundred series which has 
+at least one listed household number is more likely to have other residential telephone numbers. 
+In particular, the SOC used (Marketing Systems Group) GENESYS’s (Legacy) Landline RDD sampling 
+frame.  In constructing GENESYS’s hundred series, one of the sources used was the infoUSA residential 
+database consisting of all known telephone numbers. Moreover, on a quarterly basis, Telcordia 
+Technologies data products were used to validate prefixes/banks and reflect the latest area code 
+changes due to splits. These data sources were also used to restrict the GENESYS frame to landline 
+households only.  GENESYS’s Legacy Landline RDD Frame was updated yearly or quarterly.   
+In addition, the SOC used methods developed at the Survey Research Center (SRC) at the University of 
+Michigan Institute for Social Research to prescreen generated numbers against a known business 
+number list. Tri-tone screening was also used to detect numbers not connected to an active phone line.  
+Starting in 2010, the SRC started to use GENESYS-CSS screening, an interviewer-administered screening 
+process for landline RDD sample to identify non-productive numbers. During this process, all listed and 
+unlisted residential numbers in the GENESYS’s (Legacy) Landline RDD sampling frame, excluding listed 
+business numbers, were screened. GENESYS-CSS identified the vast majority of business and non-
+                                                            
+3 The term “hundred series” refers to the first eight digits of a phone number—the area code, exchange, and the 
+first two digits of the remaining four numbers. One hundred possible phone numbers can be formed from each 
+hundred series by adding the set of numbers “00" to “99" to create 10-digit phone numbers. 
+ 
+6 
+ 
+working numbers, including those with and without tri-tones, fax/modem lines, as well as those with 
+other dispositions, in addition to both dedicated cellular and ported landline-to-wireless numbers. 
+1.2.1.1. Within Household Selection in the Landline (RDD) Sampling Protocol 
+The Landline RDD sampling frame provides for an equal probability sample of all telephone households; 
+within each household, probability methods (described in detail below) are used to select one adult as 
+the designated respondent. At the time of the initial contact with the household, a listing is taken of all 
+household members that are 18 or older. In the paper and pencil version of the survey instrument 
+(January 1978-October 1992), a specific member of the household from this list of eligible respondents 
+is selected by the interviewer using the "respondent selection table" assigned to that household’s 
+coversheet. These selection tables were assigned to households so that each adult has a known 
+selection probability across households of all sizes, as well as differences in age and sex composition. 
+Giving each selected respondent a weight equal to the number of adults in the household would then 
+transform the sample of households to a sample of the adult population. In the computerized version of 
+the instrument, one adult was randomly selected as the designated adult by the computer. Given the 
+number of adults living in a household, the adult-level unequal selection probabilities were adjusted by 
+the number of adults in a household. 
+1.2.2. Random Digital Dialing (RDD) Cell Phone Frame (July 2012 – June 2024) 
+U.S. telephone providers do not publicly release the specific cell telephone numbers assigned to 
+subscribers.  Since a sample of cell telephone numbers cannot be obtained from a list of subscribers, a 
+random digit dialing system is used to generate telephone numbers to be called.   
+A sample provider (SOC uses Marketing Systems Group’s GENESYS system) obtains a list of all possible 
+seven-digit cell telephone thousand series from the U.S. NANPA contractor. All 1,000 possible suffixes, 
+from 000 to 999, are appended to the seven-digit codes to generate all possible 10-digit cell telephone 
+numbers. The sample provider then randomly selects numbers without replacement from this frame of 
+all possible cell telephone numbers dedicated to providing cellular service. The database is updated 
+quarterly and contains all cellular dedicated thousand series in the country and can be defined by a 
+variety of geographies, including area code, state, and national geography. In this method, the Cell RDD 
+sample frame contains working, non-working and unassigned numbers to ensure each telephone 
+number has a known and equal probability of selection. 
+The SOC staff selects a sample of such cell telephone numbers using the Marketing Systems Group 
+system.  The SOC staff checks the sample, and then returns it to Marketing Systems Group to append 
+activity codes provided by telephone companies for each cell phone number. The activity codes are 
+determined by two GENESYS Sampling System screening processes: Cell-WINS and CNS. The SOC has 
+used CNS since 2012 and Cell-WINS screening was added in April 2013. CNS (Activity Flagging) attempts 
+to determine the activation status of a cell phone number. This can be any activity and is not limited to 
+making or taking calls. Through the Cell-WINS screening process, a number will receive a flag of active, 
+inactive, or unknown (typically less than 5% of the file will be flagged as unknown). The SOC staff then 
+selects from the sample those numbers with specific activity codes known to more likely be active. 
+These pre-screened numbers are then called by the University of Michigan Telephone Interviewing 
+Facility staff.  Unassigned numbers are discovered only during dialing. Cell phones are considered to be 
+personal devices, therefore the selection is at the adult level. 
+7 
+ 
+1.2.3. Address-Based Sampling (ABS) Frame (April 2024 – ongoing)  
+Monthly ABS lists provided by Marketing Systems Group’s GENESYS system are used to represent all 
+households in the continental United States. The sample of addresses are selected with equal 
+probabilities from an updated list provided by the U.S. Postal Service (USPS), which included numerous 
+auxiliary variables pertaining to the addresses. The SOC ABS lists include postal addresses from the 48 
+coterminous states and the District of Columbia, including those on the do-not-mail list, those 
+designated as rural road delivery, drops, throwbacks, P.O. Boxes, and seasonal residences, while 
+excluding addresses labeled as vacant. 
+1.2.3.1. Within Household Selection in Address-Based Sampling (ABS) Protocol 
+The SOC instructions request that the survey be completed by an adult aged 18 years or older, or their 
+spouse or partner, in whose name the housing unit is owned or rented. This method is one of many 
+within-household selection methods identified in the survey methodology literature for use in self-
+administered and mixed-mode surveys (Olson et al., 2020). 
+1.3. Monthly Survey Sample Design for Phone and Web Interviews 
+Historically, our goal has been to maintain a maximum standard error of approximately 5 percentage 
+points for the Sentiment Index and 6 percentage points for the Current Conditions and Expectations 
+Indices in the monthly telephone surveys. Appendix Table 1 indicates that conducting a minimum of 500 
+interviews meets this criterion. The sample size calculations for the web surveys adhere to the same 
+standards.  
+In addition to establishing a target total sample size, our SOC sample design incorporates two further 
+objectives: 1) The twice monthly release of reports, and 2) A specific ratio of fresh to recontact 
+interviews within each reporting period. To achieve these objectives, we have determined a daily target 
+of interviews for each sample type—fresh versus recontact—for both telephone and web surveys. This 
+approach ensures the on-time delivery of data twice a month while maintaining the predetermined ratio 
+of fresh to recontact interviews. 
+With this in mind, the telephone surveys have targeted 600 complete interviews per month, with a split 
+of 320 and 280 interviews each for fresh and recontact, respectively. For a 27-28 day long survey period, 
+the average daily target is 26 for the preliminary release period, and 16 for the period between the 
+preliminary and final releases. The daily split is roughly proportional to the overall 320/280 target. The 
+recontact sample is composed of second and third interviews of respondents from prior months. In each 
+month, approximately two thirds of the recontact sample are second interviews and one-third is third 
+interviews. Each sample case can be interviewed up to three times with 6 month intervals. 
+The web surveys have a weekly target of 215 complete interviews with a 125/90 fresh/recontact sample 
+split, and a daily target of a minimum of 30 completes. This sample size calculation assumed response 
+rates of 3% for fresh and 48% for and recontact samples. The sample size calculation also assumed 86% 
+of interviews would meet the completeness criterion described in Section 3.1. This assumption was 
+made based on the annual average percentage of interviews that met the completeness criterion in 
+2023.  
+8 
+ 
+Based on these weekly targets, we projected the number of daily completes from April 2024 to 
+December 2025 period (Figure 1). As the fresh sample release sizes grow over the course of 2024, the 
+recontact completes are projected to reach the targeted level in December 2024. The daily number of 
+completes is projected to vary between 35 and 46.  
+In each calendar year, ten monthly releases cover four-week survey periods, and two releases cover 
+five-week survey periods. Given the weekly targets for web data collection, five-week reporting months 
+(35 survey field days) will yield a larger number of completes than the typical four-week months. SOC 
+staff monitor the actual response and completion rates as time progresses to ensure the targets are 
+being met. If the rates are significantly higher or lower than the projections, the sample sizes or 
+strategies may need further adjustments to align with the objectives. 
+Figure 1. Projected Daily Number of Completes, Surveys of Consumers Monthly Web Surveys, April 
+2024- December 2025 
+ 
+ 
+1.4. Transition Period Sample Design  
+The transition period between April 2024 and June 2024 employs parallel data collection methods 
+following the sample design described in Section 1.3. For reporting purposes, during the transition from 
+telephone surveys to web surveys, the total sample size will increase while the share of official data 
+from telephone interviews gradually decreases. Both survey estimates still each represent the target 
+population estimates. This scaling strategy incorporates a predefined number of daily completes, 
+segmented into fresh and recontact interviews—a structure supporting the consistency of data flow.  
+Historical analysis of monthly time series correlations dating back to January 2017, suggests a robust 
+correlation between key indicators obtained from telephone and web interviews. The Survey of 
+Consumers (SOC) has routinely revised its methodological approach, historically incorporating a blend of 
+0
+20
+40
+60
+80
+100
+202404
+202408
+202412
+202504
+202508
+202512
+Daily Number of Completes (Projected)
+April 2024 - December 2025
+Daily Number of Completes (Projected)
+Target
+9 
+ 
+new and legacy methodologies in its composite estimates. Our approach carries forward this tradition, 
+systematically altering the mix between telephone and web data within the finalized publishable 
+estimates from March 2024 to July 2024, as shown in Figure 2. 
+Survey methodology scholars have identified numerous methods for transitioning from one method to 
+another. The Surveys of Consumers prioritized simplicity and transparency in selecting and developing 
+its method. Indeed, it is dependent upon the strong correlations observed in the time series data. 
+Given the plans outlined in Section 1.3, the target number of complete interviews is increasing from the 
+600 targeted in March 2024 to 988 interviews in June 2024. The intervening months will target the 
+following: 
+For April: we aim to conduct 600 telephone interviews and 194 web interviews, totaling 794 complete 
+interviews. The distribution between telephone and web interviews will result in approximately 76% of 
+interviews being conducted via telephone and the remaining 24% via the web. 
+In May, our goal is to achieve the overall target of 988 completes, consistent with June's target. To 
+transition towards a more balanced approach between telephone and web interviews, we will increase 
+the number of web interviews by adding 1.5 times the standard monthly increase of 291 to the web 
+interviews count. This translates to an additional 485 web interviews. At the same time, we will reduce 
+the number of telephone interviews by 97. Assuming a total of 988 interviews, we will aim for an even 
+split, where approximately 50% of the interviews will be via telephone and 50% via web. 
+For June, we will adjust the balance further by reducing the telephone interviews count by 256 and 
+increasing the web interviews count by the same amount. This will achieve an estimated distribution of 
+25% telephone interviews and 75% web interviews out of the total 988 targeted completes. 4 
+To summarize the plan: 
+• In April, we will complete 794 interviews (600 telephone, 194 web). 
+• In May, we will target 988 completes with an aim for an even split:  
+o Increase web interviews by 485 (from 194 to 485).  
+o Reduce telephone interviews by 97 (from 600 in April to 503 in May). 
+• In June, we will maintain 988 completes with a target distribution of 25% telephone and 75% 
+web interviews:  
+o Increase web interviews by 256 (from 485 in May to 741 in June). 
+o Reduce telephone interviews by 256 (from 503 in May to 247 in June). 
+Adjustments are rounded to the nearest whole number when necessary.  
+  
+                                                            
+4 Alternatively, we could have kept the reduction in the telephone interviews to be equal to 194 which would have 
+yielded 30/70 split for telephone and web interviews. We chose to keep the method effect contribution to be 
+constant over the four months (please see section 4). This gives us a slightly steeper reduction in the number of 
+telephone interviews. 
+10 
+ 
+Figure 2. Number of Completes per Survey Method, Surveys of Consumers Monthly Web Surveys, 
+April 2024- July 2024 
+ 
+See Section 4 for a discussion of the implications of this transition on interpreting estimate of change 
+across time. 
+2. Data Collection Methods 
+This section describes data collection methods used for telephone interviewing (June 2024 and earlier) 
+and web interviewing (April 2024 and later). All data are collected using a computer-assisted telephone 
+or web interviewing (CATI or CAWI) system. These data collection activities described here have been 
+executed in partnership with the Survey Research Operations (SRO) group at the University of Michigan 
+Institute for Social Research: developing and programming the survey instruments, recruiting and 
+training interviewers to administer the survey in two languages, planning and implementing a strategy 
+for release of the sample, contacting respondents and conducting interviews, and implementing quality 
+assurance procedures. 
+2.1. Description of Telephone Interviewing 
+Survey Research Operations (SRO) at the University of Michigan’s Institute for Social Research is 
+responsible for hiring and training interviewers, known as Survey Research Technicians, and managing 
+the monthly interview completion. Each month, the questionnaires are prepared in advance and 
+circulated alongside supporting materials, such as the codebook and explanations regarding the purpose 
+and administration of each question. Interviewers are responsible for manually dialing assigned cell 
+phone numbers and conducting the interviews. Interviews can be conducted in English or Spanish. To 
+respect the respondents' time, calls are not placed before 9:00 AM or after 9:00 PM in the respondent’s 
+local time zone, unless specifically requested otherwise. A phone number that results in no response is 
+attempted up to three times. All operational interviews are recorded for quality control. 
+0
+20
+40
+60
+80
+100
+0
+200
+400
+600
+800
+1000
+March April May June July
+% of Total Interviews from Each Method
+Number of  Interviews
+Number of Completes by Survey Method 2024
+Phone Web Phone Web
+11 
+ 
+SRO's Quality Control (QC) department randomly audits these recordings for each interviewer to ensure 
+adherence to the General Interviewing Technique protocols and the precise capture of data. 
+Interviewers regularly meet with QC personnel to review their performance, acknowledge their 
+successes, receive constructive feedback, and discuss opportunities for enhancement. Overnight, a 
+dedicated team of coders processes open-ended responses, simultaneously evaluating each interview 
+for its thoroughness and overall quality.  
+2.2. Telephone Interviewing Materials 
+New participants are contacted via telephone call. Respondents who complete their interviews and 
+provide their email addresses may be sent a newsletter detailing the survey’s objectives. For a given 
+month, participants who completed interviews previously and provided an email address will receive an 
+email reminder six months post-interview in preparation for their follow-up interview. During the field 
+period, they will receive up to two reminders by email. The thank you, invitation, and reminder email 
+messages are below.  
+Thank you emails (sent to phone respondents after production ends) 
+Subject: Thank you for participating in University of Michigan survey 
+Body:  
+Dear {{RFNAME}}: 
+ 
+Thank you very much for the contributions you provided for the Survey of Consumer 
+Attitudes. We value your willingness to give us your time and opinions. Attached is 
+additional information about our research. 
+ 
+Your contribution to our study is appreciated. If you have any questions, please contact 
+our Survey Research Center at 1-877-556-1542. 
+ 
+Thank you, 
+ 
+Joanne Hsu 
+Surveys of Consumers 
+University of Michigan 
+http://soc.isr.umich.edu 
+umich.soc@umich.edu 
+Attach: Newsletter YYYY.pdf 
+  
+12 
+ 
+Invitation email message to recontact sample 
+Subject: What’s your opinion about the economy? 
+Body: 
+Dear {{RFNAME}}, 
+ 
+You previously took part in a survey conducted by the Survey Research Center at the 
+University of Michigan, providing information vital to determine the economic well-
+being of the nation.  You have probably heard media reports about consumer 
+confidence based on this survey. 
+ 
+We would like to call you during the months of {{THISMON}} or {{MONTH}} to 
+understand what changes have occurred to complete the research.   
+ 
+In order for the data to be accurate we need to talk with the same people that we 
+interviewed six months ago.  As before, the interview is completely voluntary and all 
+information provided will be held in strict confidence. 
+ 
+An interviewer will be calling you soon, or you can call us on our toll free number 1-877-
+556-1542, seven days a week.  If your phone number has changed in the past six 
+months, please let us know -- email us at umich.soc@umich.edu or call 1-877-556-1542.   
+ 
+Thank you for your help with this important research.   
+ 
+Sincerely,  
+Joanne Hsu 
+Director, Surveys of Consumers 
+University of Michigan 
+  
+13 
+ 
+First reminder email message to recontact sample 
+Subject: We haven’t been able to reach you 
+Body: 
+Dear {{RFNAME}}, 
+ 
+You have been selected once again to be included in an important survey conducted by 
+the University of Michigan.  The survey documents how recent changes in economic 
+conditions have affected people and what economic changes people expect in the years 
+ahead.  You have probably heard media reports about consumer confidence based on 
+this survey. 
+ 
+The Survey Research Center at the University of Michigan has measured consumer 
+confidence for over half a century.   In order for the results to be accurate, it is 
+important that everyone selected for the survey actually participates.  Many important 
+decisions by government agencies and other policy makers depend in part on how 
+accurately the survey represents everyone’s opinions.  No one else can substitute for 
+you in this research. 
+ 
+Please call us at 1-877-556-1542 to obtain more information or to schedule an 
+interview.  We are open seven days a week.  If your phone number has changed in the 
+past six months, please let us know -- email us at umich.soc@umich.edu or call 1-877-
+556-1542. 
+ 
+Thank you for your help with this important research. 
+ 
+Sincerely,  
+Joanne Hsu 
+Director, Surveys of Consumers 
+University of Michigan 
+  
+14 
+ 
+Second reminder email message to recontact sample 
+Subject: Last chance to participate 
+Body:  
+Dear {{RFNAME}},  
+ 
+Thank you for your continued participation in the University of Michigan's Surveys of 
+Consumers. This is the last reminder message regarding your opportunity to participate 
+in the University of Michigan's Surveys of Consumers study. Your responses to this 
+survey are very important and will help us to understand how recent changes in 
+economic conditions have affected people. Taking part in the study will ensure that the 
+data are representative of all people. 
+ 
+Interviewing for this month ends soon. Please email us at umich.soc@umich.edu to 
+obtain more information or call us at 1-877-556-1542 to complete an interview today.  
+ 
+Thank you for your help with this important research. 
+ 
+Sincerely,  
+Joanne Hsu 
+Director, Surveys of Consumers 
+University of Michigan 
+ 
+  
+15 
+ 
+2.3. Description of Web Interviewing 
+The primary method of contact involves sending invitations and reminders by mail for participants to 
+complete the online survey. In the case of recontact samples that provided an email address during an 
+earlier interview, these mailings are accompanied by email correspondence. Nonrespondents receive 
+one further reminder two weeks after the initial contact. Each sampled case has up to three months to 
+complete the survey. The monthly sample is broken down by weeks and days for each survey month. 
+Invitations and reminders are dispatched on a thrice weekly basis—every Monday, Wednesday, and 
+Friday. 
+2.4. Web Interviewing Materials 
+We present the mail and email invitation and reminder letters in this section.  
+16 
+ 
+Mail Invitation (fresh sample) 
+ 
+                         January 19, 2024          202401-22001 
+  TOWN AREA RESIDENT                                       
+  XXX ST APT XXX  
+  TOWN   MI      XXXXX-XXXX 
+ 
+ 
+ 
+Dear Town Area Resident: 
+ 
+The Survey Research Center at the University of Michigan has measured consumer confidence 
+in the nation’s economy for over half a century.  The survey shows how recent changes in 
+economic conditions have affected people like you.  You have probably heard reports in the 
+media about the latest findings on consumer confidence, which are based on this research. Your 
+household has been selected to be included in this month’s survey.  
+ 
+Please complete the survey online, type the survey link provided below into your web browser 
+and enter the Login ID to begin the survey.  Please have an adult 18 years or older complete the 
+survey; it should take approximately 15 minutes.  
+ 
+ 
+                 Survey web link:  umsurvey.umich.edu     
+                 Login ID:                 JAN22001E 
+ 
+ 
+This will take you to the web survey! 
+ 
+All information provided will be kept in strict confidence.  No identifying information will ever 
+be released to anyone.   
+ 
+Should you have questions regarding the survey content or website access, please contact the 
+Surveys of Consumers at umich.soc@umich.edu or call our office at 1-866-989-0051 and leave 
+a message with your name and number and someone will promptly return your call.  
+ 
+ 
+Thank you for your help with this important research. 
+ 
+Sincerely, 
+ 
+Joanne Hsu 
+Director, Surveys of Consumers 
+University of Michigan 
+  
+
+17 
+ 
+            19 de enero de 2024           202401-22001 
+ 
+ 
+ 
+ 
+Estimado(a) residente del área de Town: 
+ 
+El Centro de Encuestas de la Universidad de Michigan lleva más de medio siglo midiendo la 
+confianza de los consumidores en la economía nacional. La encuesta muestra cómo los cambios 
+recientes en las condiciones econ ómicas han afectado a personas como usted. Probablemente 
+usted haya escuchado información en los medios de comunicación sobre la confianza de los 
+consumidores, la cual proviene de nuestro estudio. Su hogar ha sido seleccionado para ser 
+incluido en la encuesta de este mes.  
+ 
+Por favor complete la encuesta en línea . Escriba el enlace de la encuesta que aparece a 
+continuación en su navegador web e ingrese el ID de inicio de sesión. La encuesta la debe 
+completar un adulto de 18 años o más. Le tomará aproximadamente 15 minutos completar este 
+cuestionario.  
+ 
+ 
+   Enlace a la encuesta :  umsurvey.umich.edu 
+   Identificación (ID) de inicio de sesión :  JAN22001E 
+ 
+ 
+ 
+                  ¡Esto le llevará a la encuesta 
+web! 
+ 
+Toda la información que usted provee se mantendrá de manera estrictamente confidencial. No 
+divulgaremos a nadie ninguna información que pudiera identificar a los participantes.  
+ 
+Si tiene alguna pregunta, por favor no dude en contactar la Encuesta de Consumidores al 
+umich.soc@umich.edu.  
+ 
+Muchas gracias por su ayuda en este estudio tan 
+importante. 
+ 
+Atentamente, 
+ 
+Joanne Hsu 
+Director de la Encuesta de 
+Consumidores 
+Universidad de Michigan 
+  
+
+18 
+ 
+Mail Reminder (fresh sample) 
+ 
+                    January 22, 2024            202401-11401 
+  TOWN AREA RESIDENT                                       
+   AVE APT  
+  TOWN   MI      XXXXX-XXXX 
+ 
+ 
+ 
+Dear Town Area Resident: 
+ 
+Recently, we sent a letter asking for your participation in the consumer confidence survey 
+conducted by the University of Michigan. The Survey Research Center at the University of 
+Michigan has measured consumer confidence in the nation’s economy for over half a century. 
+You have probably heard reports in the media about the latest findings on consumer confidence, 
+which are based on this research. The survey will document how recent changes in economic 
+conditions have affected people like you.  
+ 
+If someone in your household has already completed the online survey, we thank you for your 
+participation. If not, please have an adult 18 years or older complete the survey by typing the 
+survey web link provided below into your web browser and entering the Login ID.  The survey 
+should take approximately 15 minutes to complete.  
+ 
+ 
+     Survey web link:  umsurvey.umich.edu     
+     Login ID:         JAN1401T 
+ 
+ 
+This will take you to the web survey! 
+ 
+All information provided will be kept strictly confidential. No identifying information will ever 
+be released to anyone. 
+ 
+Should you have questions regarding the survey content or website access, please contact the 
+Surveys of Consumers at umich.soc@umich.edu or call our office at 1-866-989-0051 and leave 
+a message with your name and number and someone will promptly return your call. 
+ 
+Thank you for your help with this important research. 
+ 
+Sincerely, 
+ 
+Joanne Hsu 
+Director, Surveys of Consumers 
+University of Michigan 
+  
+
+19 
+ 
+            22 de enero de 2024            202401-11401 
+ 
+ 
+ 
+ 
+Estimado(a) residente del área de Town: 
+ 
+Recientemente le enviamos una carta solicitando su participación en la encuesta sobre la 
+confianza de los consumidores que está llevando a cabo la Universidad de Michigan. El Centro 
+de Encuestas de la Universidad de Michigan lleva más de medio siglo midiendo la confianza de 
+los consumidores en la economía nacional. Probablemente usted haya escuchado información 
+en los medios de comunicación acerca de los datos recientes sobre la confianza de los 
+consumidores, la cual proviene de nuestro estudio. La encuesta documentará cómo los cambios 
+recientes en las condiciones económicas han afectado a personas como usted.  
+ 
+Si alguien de su hogar ya ha completado la encuesta en línea, le agradecemos su participación. 
+Si no lo han completado, la encuesta la debe completar un adulto de 18 años o más.  Escriba el 
+enlace de web que aparece a continuación en su navegador web e ingrese el ID de inicio de 
+sesión. Le tomará aproximadamente 15 minutos completar este cuestionario.  
+ 
+ 
+Enlace a la encuesta:  umsurvey.umich.edu 
+Identificación (ID) de inicio de sesión:  JAN1401T 
+ 
+ 
+ 
+                  ¡Esto le llevará a la encuesta 
+web! 
+ 
+Toda la información que usted provee se mantendrá de manera estrictamente confidencial. No 
+divulgaremos a nadie ninguna información que pudiera identificar a los participantes.  
+ 
+Si usted tiene preguntas acerca del contenido de la encuesta o sobre el acceso a la página de 
+web, por favor no dude en contactar la Encuesta de Consumidores al umich.soc@umich.edu.  
+ 
+Muchas gracias por su ayuda en este estudio tan 
+importante. 
+ 
+Atentamente, 
+ 
+Joanne Hsu 
+Director de la Encuesta de 
+Consumidores 
+Universidad de Michigan 
+ 
+ 
+
+20 
+ 
+Mail Invitation (recontact sample) 
+                                                                                              
+                                                                                                January 10, 2024      202401-50080 
+SURVEYS OF CONSUMERS RESPONDENT 
+XXXX ST  
+TOWN, MI XXXXX-XXXX 
+ 
+Dear FNAME: 
+ 
+Six months ago, you participated in a survey for the University of Michigan’s Surveys of 
+Consumers.  The survey shows how recent changes in economic conditions have affected 
+people like you.  We would like your participation again as it is important to understand how 
+people's economic situation changes over time.  
+ 
+For this interview, we would like you to share your opinions using a web survey.  Please type 
+the survey link provided below into your web browser and enter the Login ID to complete the 
+survey at your earliest convenience.  As before, this questionnaire should take approximately 15 
+minutes to complete.   
+ 
+ 
+ 
+Survey web link: umsurvey.umich.edu  
+Login ID:   JAR0080E 
+ 
+ 
+ 
+         This will take you to the web survey!  
+             
+All information provided will be kept strictly confidential.  No identifying information will ever 
+be released to anyone.   
+ 
+Should you have questions regarding the survey content or website access, please contact the 
+Surveys of Consumers at umich.soc@umich.edu.  You may also call us at 1-866-989-0051 and 
+leave us a message and we will return your call as quickly as possible. 
+ 
+Thank you again for all the help you have given us, and for your willingness to take part in this 
+follow-up survey. 
+ 
+Sincerely, 
+ 
+ 
+ 
+Joanne Hsu 
+Director, Surveys of Consumers 
+University of Michigan 
+ 
+
+21 
+ 
+Spanish Mail Invitation (recontact sample) 
+ 
+            20 de noviembre de 2023           202312-50007 
+SURVEYS OF CONSUMERS RESPONDENT 
+XXXX ST  
+TOWN, MI XXXXX-XXXX 
+ 
+ 
+ 
+Estimado/a Osirs: 
+ 
+Hace seis meses, usted participó en una encuesta para el Estudio de Consumidores de la 
+Universidad de Michigan.  La encuesta muestra cómo los cambios recientes en las condiciones 
+económicas han afectado a personas como usted.  Nos gustaría contar con su participación 
+nuevamente ya que es importante entender cómo la situación económica de la gente cambia con 
+el paso del tiempo.  
+ 
+Para esta entrevista, nos gustaría que usted comparta sus opiniones usando una encuesta web.  
+Por favor ingrese el enlace proporcionado a continuación en su navegador web, e ingrese el ID 
+de inicio de sesión para completar la encuesta cuando le sea posible. Como antes, esta encuesta 
+le tomará aproximadamente 15 minutos.  
+ 
+ 
+Enlace a la encuesta:  umsurvey.umich.edu 
+Identificación (ID) de inicio de sesión:  HNR0007S 
+ 
+ 
+ 
+                  ¡Esto le llevará a la encuesta 
+web! 
+ 
+Toda la información que usted provee se mantendrá de manera estrictamente confidencial. No 
+divulgaremos a nadie ninguna información que pudiera identificar a los participantes.  
+ 
+Si usted tiene preguntas acerca del contenido de la encuesta o sobre el acceso a la página de 
+web, por favor no dude en contactar la Encuesta de Consumidores al umich.soc@umich.edu.  
+ 
+Gracias nuevamente por toda la ayuda que nos ha brindado, y por estar dispuesto/a a tomar parte 
+en esta encuesta de seguimiento. 
+ 
+Atentamente, 
+ 
+Joanne Hsu 
+Director de la Encuesta de 
+Consumidores 
+Universidad de Michigan 
+ 
+
+22 
+ 
+Mail Reminder (recontact sample) 
+                                                                                             December 21, 2023     202312-50219 
+SURVEYS OF CONSUMERS RESPONDENT 
+XXXX ST  
+TOWN, MI XXXXX-XXXX 
+ 
+Dear FNAME: 
+ 
+Six months ago, you participated in a survey for the University of Michigan’s Surveys of 
+Consumers.  The survey shows how recent changes in economic conditions have affected 
+people like you.  We would like your participation again as it is important to understand how 
+people's economic situation changes over time.  
+ 
+For this interview, we would like you to share your opinions using a web survey.  Recently, we 
+sent you a letter with access information to take the survey online and that access information is 
+below.  Please type the survey link provided below into your web browser and enter the Login 
+ID to complete the survey at your earliest convenience.  As before, this survey should take 
+approximately 15 minutes to complete.   
+ 
+ 
+Survey web link: umsurvey.umich.edu  
+Login ID:   DEC0219C 
+ 
+ 
+                This will take you to the web survey!  
+             
+If you have already completed the survey, we thank you for your participation.  All information 
+provided will be kept strictly confidential.  No identifying information will ever be released to 
+anyone.   
+ 
+Should you have questions regarding the survey content or website access, please contact the 
+Surveys of Consumers at umich.soc@umich.edu.  You may also call us at 1-866-989-0051 and 
+leave us a message and we will return your call as quickly as possible. 
+ 
+Thank you again for all the help you have given us, and for your willingness to take part in this 
+follow-up survey. 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+Joanne Hsu 
+Director, Surveys of Consumers 
+University of Michigan 
+ 
+
+23 
+ 
+Spanish Mail Reminder (recontact sample) 
+            4 de diciembre de 2023         202312-50007 
+SURVEYS OF CONSUMERS RESPONDENT 
+XXXX ST  
+TOWN, MI XXXXX-XXXX 
+ 
+ 
+Estimado/a Osirs: 
+ 
+Hace seis meses, usted participó en una encuesta para el Estudio de Consumidores de la 
+Universidad de Michigan.  La encuesta muestra cómo los cambios recientes en las condiciones 
+económicas han afectado a personas como usted.  Nos gustaría contar con su participación 
+nuevamente ya que es importante entender cómo la situación económica de la gente cambia con 
+el paso del tiempo.  
+ 
+Para esta entrevista, nos gustaría que usted comparta sus opiniones usando una encuesta web.  
+Hace poco, le enviamos una carta con  la información de acceso para completar la encuesta en 
+línea, la cual se encuentra abajo.  Por favor ingrese el enlace proporcionado a continuación en 
+su navegador web, e ingrese el ID de inicio de sesión para completar la encuesta cuando le sea 
+posible. Como antes, esta encuesta le tomará aproximadamente 15 minutos.  
+ 
+ 
+Enlace a la encuesta:  umsurvey.umich.edu 
+Identificación (ID) de inicio de sesión:  DEC0219C 
+ 
+ 
+ 
+                  ¡Esto le llevará a la encuesta 
+web! 
+ 
+Si usted ya ha completado la encuesta, le agradecemos por su participación. Toda la información 
+que usted provee se mantendrá de manera estrictamente confidencial. No divulgaremos a nadie 
+ninguna información que pudiera identificar a los participantes.  
+ 
+Si usted tiene preguntas acerca del contenido de la encuesta o sobre el acceso a la página de 
+web, por favor no dude en contactar la Encuesta de Consumidores al umich.soc@umich.edu.  
+ 
+Gracias nuevamente por toda la ayuda que nos ha brindado, y por estar dispuesto/a a tomar parte 
+en esta encuesta de seguimiento. 
+ 
+Atentamente, 
+ 
+Joanne Hsu 
+Director de la Encuesta de 
+Consumidores 
+Universidad de Michigan 
+
+24 
+ 
+Email Invitation (recontact sample only) 
+• Subject: Tell us about your opinions of the economy 
+• Body: 
+Dear {{RFNAME}}, 
+ 
+Six months ago, you participated in a web survey for the University of Michigan's 
+Surveys of Consumers. The survey shows how recent changes in economic conditions 
+have affected people like you. We would like your participation again as it is important 
+to understand how people's economic situation changes over time.  Please click on the 
+link below to start the survey, 
+ 
+https://umsurvey.umich.edu/Logon 
+ 
+And enter the Login ID to complete the survey. 
+Login ID: {{PW}} 
+ 
+No one else can substitute for you in this research.  This survey should take 
+approximately 15 minutes to complete.  As before, this survey is completely voluntary 
+and confidential. No identifying information will ever be released to anyone.   
+ 
+Should you have questions regarding the survey content or website access, please email 
+us at umich.soc@umich.edu.  You may also call our office at 1-866-989-0051 and leave a 
+message with your name and number and someone will promptly return your call. 
+ 
+We appreciate your time and consideration in completing the survey. Thank you again 
+for all the help you have given us, and for your willingness to take part in this follow-up 
+survey.  
+ 
+Sincerely, 
+Joanne Hsu 
+Director, Surveys of Consumers 
+University of Michigan 
+ 
+P.O. Box 1248 
+Ann Arbor, MI 48106-9952 
+1-866-989-0051 
+umich.soc@umich.edu 
+  
+25 
+ 
+Email Reminder 1 (recontact sample only) 
+• Subject: Please tell us about your opinions of the economy 
+• Body:  
+Dear {{RFNAME}}, 
+ 
+Thank you for your continued participation in the University of Michigan's Surveys of 
+Consumers.  You should have received an invitation to our web survey last week.  Your 
+responses to this survey are very important and will help us understand how recent 
+changes in economic conditions have affected people. Taking part in the study will 
+ensure that the data are representative of all people. No one else can substitute for you 
+in this research. 
+ 
+This survey will take approximately 15 minutes to complete depending on your 
+responses.  Please click on the link below to start the web survey, 
+ 
+https://umsurvey.umich.edu/Logon 
+ 
+And enter the Login ID to start the survey. 
+Login ID: {{PW}} 
+ 
+All information that you provide will be used for research purposes only and will be kept 
+strictly confidential.  Should you have questions regarding the survey content or website 
+access, please send us an email at umich.soc@umich.edu.   You may also call our office 
+at 1-866-989-0051 and leave a message with your name and number and someone will 
+promptly return your call. 
+ 
+Thank you again for all the help you have given us, and for your willingness to take part 
+in this follow-up survey. 
+ 
+Sincerely, 
+Joanne Hsu 
+Director, Surveys of Consumers 
+University of Michigan 
+ 
+P.O. Box 1248 
+Ann Arbor, MI 48106 
+1-866-989-0051 
+umich.soc@umich.edu 
+  
+26 
+ 
+Email Reminder 2 (recontact sample only)  
+• Subject: Last contact: tell us about your opinions of the economy 
+• Body: 
+Dear {{RFNAME}}, 
+ 
+Thank you for your continued participation in the University of Michigan's Surveys of 
+Consumers.  This is the last reminder message regarding your opportunity to participate 
+in the University of Michigan's Surveys of Consumers study. Your responses to this 
+survey are very important and will help us to understand how recent changes in 
+economic conditions have affected people. Taking part in the study will ensure that the 
+data are representative of all people. 
+ 
+Thank you if you have already completed the survey.  If you have not, please complete it 
+at your earliest convenience. This survey will take approximately 15 minutes to 
+complete depending on your responses. Please click on the link below to start the 
+survey, 
+ 
+https://umsurvey.umich.edu/Logon 
+ 
+And enter the Login ID to start the survey. 
+Login ID: {{PW}} 
+ 
+All the information provided will be kept strictly confidential. No identifying information 
+will ever be released to anyone. Should you have questions regarding the survey 
+content or login access, please email us at umich.soc@umich.edu. You may also call our 
+office at 1-866-989-0051 and leave a message with your name and number and 
+someone will promptly return your call. 
+ 
+Thank you again for all the help you have given us, and for your willingness to take part 
+in this follow-up survey. 
+ 
+Sincerely, 
+Joanne Hsu 
+Director, Surveys of Consumers 
+University of Michigan 
+ 
+P.O. Box 1248 
+Ann Arbor, MI 48106-9952 
+1-866-989-0051 
+umich.soc@umich.edu 
+  
+27 
+ 
+2.5. Questionnaires 
+The questionnaires for phone and web interviews can be found on the Surveys of Consumers data 
+website. The web questionnaire is designed for use on both large computer monitors and small screens 
+like smartphones. 
+2.6. Response Rates 
+2.6.1. Overall Response Rates 
+For the telephone surveys, we aim for monthly response rates of 5% for fresh interviews and 58% for 
+recontact interviews. Table 2 presents the monthly response rates for the fresh and recontact interviews 
+for the period between April 2021 and November 2023. 
+Table 2. Surveys of Consumers ABS Web Survey Response Rates 
+Sample Type Mean Min Max Monthly Standard Deviation 
+Fresh 3.6% 2.6% 4.2% 0.5% 
+Recontact second interviews 46.5% 38.4% 58.0% 5.3% 
+Recontact third interviews 67.8% 46.2% 80.4% 7.6% 
+Response rates are calculated using AAPOR’s Response Rate 2 (RR2)  formula ( https://aapor.org/wp-
+content/uploads/2023/05/Standards-Definitions-10th-edition.pdf) 
+ 
+2.6.2. Methods to Enhance Response Rates 
+Throughout its history, the Surveys of Consumers have aimed to balance on-time completion of the 
+targeted number of interviews and survey costs. As part of this, over the course of the last decade, we 
+have used randomized experiments to investigate the impact of numerous survey design factors that 
+have been shown through outside research to enhance response rates. In our web survey experiments, 
+these factors included offering prepaid cash incentives and varying incentive amount, number of 
+reminders, format of the reminders, the amount of contact information requested, offering multiple 
+survey response options, and offering QR scan codes. The investigation outcomes included response 
+rates, web completion rates where applicable, speed of completions, socio-demographic distribution 
+differences and substantive result differences.  
+Drawing from lessons from this body of research, our web survey protocol currently includes one 
+invitation letter, one follow-up letter, and no monetary incentives for the fresh and recontact samples. 
+The contact strategy is supplemented by email invitations and follow-ups for the recontact sample that 
+provided email addresses in previous interviews.  
+  
+28 
+ 
+3. Data Editing Procedures in Web Surveys 
+3.1. Resolving Complete Cases  
+Classifying telephone interviews as partial or complete is relatively straightforward due to the sequential 
+progression of the interview. For web surveys, we review web interview data and use specific rules 
+based on the degree of completeness of specific questionnaire sections to determine each interview’s 
+completeness status as partial or complete. 
+All cases that log in successfully into the interview website are reviewed daily to determine their 
+completeness status. Note that once a sampled person logs into the survey, they will have until the end 
+of the month to complete it. While respondents do have the opportunity to complete the survey in 
+multiple sessions within this time frame, very few respondents choose to do so.  
+We have four missingness criteria that are created based on responses to the five questions in the 
+sentiment index, other key interview questions, questions used for weights calibration, and socio-
+demographic questions. Based on these set of rules, the expected percentage of partials that do not 
+meet the completeness criteria is 14% for a given month; these cases will be excluded from further 
+analysis. Ongoing quality control procedures include monitoring this percentage on a daily basis. 
+3.2. Reviewing Outliers 
+Numeric response distributions are reviewed during the daily data processing and biweekly reporting 
+periods. The review is comprehensive and takes the entire interview into account. 
+3.3. Open-ended Response Coding 
+Web open-ended responses are coded daily by two coders with a 10% overlap to review the coder 
+reliability. A third coder reviews and resolves any discrepancies between coders. Ongoing quality control 
+procedures include the monitoring of the monthly percentage of discrepancies.  
+  
+29 
+ 
+4. Method Effects 
+4.1. Method Effects  
+The differences between the survey estimates using the RDD cell phone data and ABS web data are due 
+to a number of factors that are discussed in the previous sections: 
+• Sample Design 
+• Recruitment Protocol 
+• Data Collection Protocol 
+o Self-administered vs. Interviewer Administered 
+o Survey Response Mode 
+o Questionnaire 
+• Data Editing Protocol 
+Method effects will vary across survey questions and measures, and we conceptualize the role of 
+method effects across the transition period as follows. A variable-by-variable comparison of the two 
+methods are available on the Survey Information part of the Surveys of Consumers data website.  
+4.2. Mathematical Representation of Expected Method Effects on the Estimate of Change across Time 
+4.2.1. Defining the Method Effect and Its Empirical Evaluation Using Two Parallel Time Series 
+The method effect (𝑀𝑀𝑊𝑊) can be quantitatively represented by the difference in expected values of 
+estimators that use different data collection methods over the same time period: 
+𝐸𝐸(𝜃𝜃�𝑡𝑡,𝑊𝑊) − 𝐸𝐸(𝜃𝜃�𝑡𝑡,𝑇𝑇) = 𝑀𝑀𝑊𝑊, where 
+𝜃𝜃�𝑡𝑡,𝑊𝑊: estimator for a target population parameter using web survey data at month t 
+𝜃𝜃�𝑡𝑡,𝑇𝑇: estimator for a target population parameter using telephone survey data at month t 
+𝑀𝑀𝑊𝑊: method effect due to the difference between web and telephone survey methods 
+The expectation is taken over sampling, nonresponse, and response mechanisms for a given item in the 
+questionnaire and for a given a time period. In this representation, we are choosing the time period as a 
+month. 
+This assumes that the discrepancy between the expected value of web and telephone survey estimators, 
+considering all possible samples, respondent subsets, and response distributions for a specific item 
+during a given time period, remains constant. The many strong time series correlations seen in our data 
+support this assumption. We refer to this constant as the method effect. In this context, the telephone 
+survey estimates are taken as the benchmark. When assuming 𝑀𝑀𝑊𝑊 is constant for a given time period, 
+one can estimate variable-specific method effects. Using data from two parallel time series for each 
+item, we observe average method effects of -6.6 percentage points for the Index of Consumer 
+Sentiment and -13.6 for the Current Economic Conditions Index.  
+Next, we will discuss how method effects may influence the calculated change between two time 
+periods, focusing on the transition period in which the proportions of telephone and web data are 
+adjusted over four months. 
+30 
+ 
+4.2.2. Impact of Method Effect on Change Estimator 
+With the assumption of a constant method effect, the expectation of change estimator between two 
+time periods, when conditioned on the same method, remains unaffected:  
+𝐸𝐸�𝜃𝜃�𝑡𝑡+1,𝑊𝑊 − 𝜃𝜃�𝑡𝑡,𝑊𝑊� = ∆ 
+ 
+𝐸𝐸�𝜃𝜃�𝑡𝑡+1,𝑇𝑇 − 𝜃𝜃�𝑡𝑡,𝑇𝑇� = ∆ 
+However, a transition from telephone to web surveys results in: 
+𝐸𝐸�𝜃𝜃�𝑡𝑡+1,𝑊𝑊 − 𝜃𝜃�𝑡𝑡,𝑇𝑇� = ∆ + 𝑀𝑀𝑊𝑊 
+𝐸𝐸�𝜃𝜃�𝑡𝑡+1,𝑊𝑊 − 𝜃𝜃�𝑡𝑡+1,𝑇𝑇 + 𝜃𝜃�𝑡𝑡+1,𝑇𝑇 − 𝜃𝜃�𝑡𝑡,𝑇𝑇� = 𝐸𝐸�𝜃𝜃�𝑡𝑡+1,𝑇𝑇 − 𝜃𝜃�𝑡𝑡,𝑇𝑇� + 𝐸𝐸�𝜃𝜃�𝑡𝑡+1,𝑊𝑊 − 𝜃𝜃�𝑡𝑡+1,𝑇𝑇� = ∆+𝑀𝑀𝑊𝑊 
+To avoid break in the time series, 𝑀𝑀𝑊𝑊 will be gradually introduced over four survey report periods: 
+From March to April, the estimated difference becomes: 
+ 𝐸𝐸�0.75�𝜃𝜃�𝑡𝑡+1,𝑇𝑇� + 0.25�𝜃𝜃�𝑡𝑡+1,𝑊𝑊� − 𝜃𝜃�𝑡𝑡,𝑇𝑇� = ∆ + 0.25𝑀𝑀𝑊𝑊 
+From April to May, the estimated difference becomes: 
+ 𝐸𝐸 �0.50�𝜃𝜃�𝑡𝑡+1,𝑇𝑇� + 0.50�𝜃𝜃�𝑡𝑡+1,𝑊𝑊� − 0.75�𝜃𝜃�𝑡𝑡,𝑇𝑇� − 0.25�𝜃𝜃�𝑡𝑡,𝑊𝑊�� = ∆ + 0.25𝑀𝑀𝑊𝑊 
+From May to June, the estimated difference becomes: 
+ 𝐸𝐸 �0.25�𝜃𝜃�𝑡𝑡+1,𝑇𝑇� + 0.75�𝜃𝜃�𝑡𝑡+1,𝑊𝑊� − 0.50�𝜃𝜃�𝑡𝑡,𝑇𝑇� − 0.50�𝜃𝜃�𝑡𝑡,𝑊𝑊�� = ∆ + 0.25𝑀𝑀𝑊𝑊 
+From June to July, the estimated difference becomes: 
+ 𝐸𝐸 �𝜃𝜃�𝑡𝑡+1,𝑊𝑊 − 0.25�𝜃𝜃�𝑡𝑡,𝑇𝑇� − 0.75�𝜃𝜃�𝑡𝑡,𝑊𝑊�� = ∆ + 0.25𝑀𝑀𝑊𝑊 
+By July to August, the estimated difference is no longer affected by the method effect 𝑀𝑀𝑊𝑊:  
+𝐸𝐸�𝜃𝜃�𝑡𝑡+1,𝑊𝑊 − 𝜃𝜃�𝑡𝑡,𝑊𝑊� = ∆ 
+In summary, in the four month period between April and July, the month-to-month change estimate will 
+incrementally incorporate one-quarter of the method effect per survey report. For illustrative purposes, 
+if the consumer sentiment index exhibited an average method effect of -6.6 percentage points, then a 
+positive month-to-month change would be underestimated by about 1.65 (one-quarter of 6.6) during a 
+rise, and a negative change would be overestimated by 1.65. Thus, we recommend that data users take 
+a more conservative approach to interpreting change estimates throughout this transition period. 
+  
+31 
+ 
+5. Weighting and Variance Estimation 
+5.1. Sample Design Overview 
+The telephone and web surveys are both designed to be rotating panel sample surveys. Each month, 
+part of the sample is fresh (that is, an independently drawn cross-sectional sample), and the remainder 
+from participants who completed an interview 6 months prior. A respondent can be interviewed up to 3 
+times, each 6 months apart.  
+Telephone surveys use an RDD cell sampling frame, for which we assume a one-to-one link between the 
+person and the cell phone. Web surveys use an ABS frame, for which we assume a one-to-one link 
+between the household and postal address. SOC computes both household- and adult-level survey 
+weights that compensate for unequal selection probability, coverage, and nonresponse. 
+The household weights are designed to yield a representative sample of all U.S. households; the adult 
+weights are designed to yield a representative sample of all adults living in private households. The 
+choice between these weights depends solely on the objectives of the data user. This choice is not 
+equivalent to the difference between the measurement of household characteristics (e.g. size, location, 
+income, wealth), and characteristics of individuals (e.g. attitudes, expectations, education, employment, 
+wages). Rather, the choice of weights depends on the preferred unit of analysis or “population” which 
+the sample results are intended to represent. For example, studies of population attitudes often use 
+“adult” weights to examine the prevalence and dynamics of attitude change among individuals; studies 
+of economic behavior often use "household" weights, reflecting an interest in the household as the 
+appropriate decision making unit for analysis. 
+In the RDD cell phone surveys, the following rules have been used to designate a member of the 
+household as the “household head”: 1) male or an unmarried and unpartnered female respondent is the 
+household head, 2) female respondent in same-sex marriage or relationship is the household head, and 
+3) female respondent married to or partnered with a male respondent is wife/partner of a household 
+head. Given these rules, a respondent could be a household head, wife/partner of a household head, or 
+in some relation to household head. The household weights apply to only household heads and 
+spouse/partner of a household head as they are determined as the household decision makers. 
+According to this description, adult children are also considered to be appropriate reporters and there is 
+no need for further weight adjustment for proxy reporters. In contrast, the household head definition in 
+the ABS web surveys largely excludes adult children who reside with their relatives. 
+Weighting adjustments are followed each step described in section 5.2 separately for phone and web 
+interview data. 
+  
+32 
+ 
+5.2. Weighting Adjustments 
+5.2.1. Weight Adjustment for Unequal Selection Probabilities 
+In the RDD cell telephone frame the first level selection is adults. Assuming a one-to-one link between 
+an adult and a cell telephone number, RDD cell telephone numbers are assumed to be drawn at adult 
+level.  The selection weights by sampling frame and household telephone ownership are shown in Table 
+3. 
+Table 3. Household and Adult Weight Adjustment by Sampling Frame and Household Telephone 
+Ownership in a RDD Cell Phone Sample Design  
+Domain Sampling frame 
+C- frame 
+ Household Adult 
+Landline phone only households (L-O) - - 
+Cell phone only households (C-O) 𝑤𝑤𝑖𝑖 = 1𝜋𝜋𝑐𝑐 1(𝐶𝐶𝑖𝑖) 𝑤𝑤𝑖𝑖𝑖𝑖 = 1𝜋𝜋𝑐𝑐 
+Landline and cell phone households (L&C) 𝑤𝑤𝑖𝑖 = 1𝜋𝜋𝑐𝑐 1(𝐶𝐶𝑖𝑖) 𝑤𝑤𝑖𝑖𝑖𝑖 = 1𝜋𝜋𝑐𝑐 1(1) 
+𝑁𝑁𝑖𝑖: number of households in household i. Ni  = (1,2,3,4,5,6,1=7 or more) 
+𝐶𝐶𝑖𝑖 : number of cell phones in household i, excluding cell phones assigned to children (17 and younger) 
+and business. Ci = (1,2,3,4,5,6,7=7-15, 1=16 or more) 
+𝜋𝜋𝐶𝐶 : probability of selecting a line from Cell RDD sampling frame   
+ 
+In the ABS frame, the first level selection is household. Assuming a one-to-one link between a household 
+and a postal address, ABS postal addresses are household level.  The selection weights by sampling 
+frame and household telephone ownership are shown in Table 4. 
+Table 4. Household and Adult Weight Adjustment by Sampling Frame and Household Telephone 
+Ownership in an ABS Web Survey Sample Design  
+Domain Sampling frame 
+ABS- frame 
+ Household Adult 
+Landline phone only households (L-O) 𝑤𝑤𝑖𝑖 = 1𝜋𝜋𝐴𝐴 𝑤𝑤𝑖𝑖𝑖𝑖 = 1𝜋𝜋𝐴𝐴 1(𝑁𝑁𝑖𝑖) 
+Cell phone only households (C-O) 𝑤𝑤𝑖𝑖 = 1𝜋𝜋𝐴𝐴 𝑤𝑤𝑖𝑖𝑖𝑖 = 1𝜋𝜋𝐴𝐴 1(𝑁𝑁𝑖𝑖) 
+Landline and cell phone households (L&C) 𝑤𝑤𝑖𝑖 = 1𝜋𝜋𝐴𝐴 𝑤𝑤𝑖𝑖𝑖𝑖 = 1𝜋𝜋𝐴𝐴 1(𝑁𝑁𝑖𝑖) 
+𝑁𝑁𝑖𝑖: number of households in household i. Ni  = (1,2,3,4,5,6,1=7 or more) 
+𝐶𝐶𝑖𝑖 : number of cell phones in household i, excluding cell phones assigned to children (17 and younger) 
+and business. Ci = (1,2,3,4,5,6,7=7-15, 1=16 or more) 
+𝜋𝜋𝐴𝐴 : probability of selecting a line from ABS sampling frame   
+33 
+ 
+5.2.2. Weight Adjustment for Coverage, Survey Nonresponse and Panel Attrition 
+Corrections for method coverage, survey nonresponse, and panel attrition are introduced through 
+raking by selected demographic characteristics (Binder and Theberge, 1988). Data from the Current 
+Population Surveys conducted by the Census are used to adjust for variations in the selected 
+demographic distributions observed in the monthly samples.  
+The fresh and recontact portions of the sample are raked separately. This permits the construction of 
+weights designed for analyses based solely on cases in either portion of the sample. The separate raking 
+also explicitly recognizes the underlying differences between initial refusals and panel attrition.   
+5.2.3. Weight Adjustment for Rotating Panel Design 
+The rotating panel design offers important statistical advantages for the measurement of change over 
+time. The statistical advantage stems from the reduction in the standard errors of the observed 
+differences in observed means between two overlapping samples as compared with two independent 
+samples. The variances of the estimated differences over time are reduced to the extent that the 
+repeated measures in the recontact portion of the sample are positively correlated. Due to the 
+correlation, each case in the recontact portion of the sample contributes less to the variance (by one 
+minus the correlation coefficient) than cases from the fresh sample.  
+To take advantage of this variance reduction feature, the weights given to the fresh cases are decreased 
+relative to the recontact cases so as to achieve estimates of differences with minimum variance (Kish, 
+1965; 1987). The weight factor used is based on the average correlation among the five questionnaire 
+items used to construct the Index of Consumer Sentiment. When the correlation is zero, each portion of 
+the sample is given equal weight; as the correlation increases, the relative weight given to the fresh 
+portion of the sample decreases. 
+5.2.4. Weight Trimming 
+Weights larger than 10 are set to 10. Final weights are based on bracketing the weights into quintiles.  
+5.3. Software for Computing Variances 
+The SOC weight adjustment includes base weight adjustments and calibration to a target population. 
+Therefore, the data users should use linearized estimator for the variance computations (Wolter, 2007 ; 
+Valliant and Dever, 2018). While the specialized survey procedures in commonly used software or 
+packages such as SAS®, and R include linearized estimator, STATA® recently incorporated linearized 
+estimator computations across all analysis procedures. 
+ 
+  
+34 
+ 
+Appendix Table 1. Recommended Allowance for Sampling Error of a Percentage (Sampling Error Allowance in Percentage Points) 
+ Number of Interviews 
+For Estimated 
+Percentage Near 100 200 300 400 500 750 1000 1250 1500 2000 2500 3000 
+1% or 99% 2.20 1.60 1.30 1.10 1.00 0.80 0.70 0.60 0.60 0.50 0.40 0.40 
+5% or 95% 4.90 3.50 2.80 2.40 2.20 1.80 1.50 1.40 1.30 1.10 1.00 0.90 
+10% or 90% 6.70 4.80 3.90 3.40 3.00 2.40 2.10 1.90 1.70 1.50 1.30 1.20 
+20% or 80% 9.00 6.30 5.20 4.50 4.00 3.30 2.80 2.50 2.30 2.00 1.80 1.60 
+30% or 70% 10.30 7.30 5.90 5.10 4.60 3.70 3.20 2.90 2.60 2.30 2.00 1.90 
+40% or 60% 11.00 7.80 6.30 5.50 4.90 4.00 3.50 3.10 2.80 2.40 2.20 2.00 
+50% 11.20 7.90 6.50 5.60 5.00 4.10 3.50 3.20 2.90 2.50 2.20 2.00 
+The figures in this table represent two standard errors. Hence, the chances are 95 in 100 that the true percentage lies within a range equal to the 
+observed percentage, plus or minus the sampling error. 
+ 
+35 
+ 
+References 
+Binder, D. A., & Theberge, A. (1988). Estimating the Variance of Raking Ratio Estimators. The Canadian 
+Journal of Statistics, 16, 47–55. 
+Brick, J. M., Waksberg, J., Kulp, D., & Starer, A. (1995). Bias in List-Assisted Telephone Samples. Public 
+Opinion Quarterly, 59(2), 218–235. 
+Casady, R. J., & Lepkowski, J. M. (1993). Stratified Telephone Survey Designs. Survey Methodology, 19, 
+103–113. 
+Kish, L. (1965). Survey Sampling. In Survey Sampling (Section 12.4, pages 457-469). New York: John Wiley 
+& Sons. 
+Kish, L. (1987). Statistical Design for Research. In Statistical Design for Research (Section 6.2, pages 150-
+192). New York: John Wiley & Sons. 
+Olson, K.,  Smyth, J.,  Horwitz, R., Keeter, S., Lesser, V., Marken, S., Mathiowetz, N., Mccarthy, J., O’Brien, 
+E., Opsomer, J., Steiger, D.,  Sterrett, D., Su, J. , Suzer-Gurtekin, Z., Turakhia, C. & Wagner, J. (2020). 
+Transitions from Telephone Surveys to Self-Administered and Mixed-Mode Surveys: AAPOR Task Force 
+Report. Journal of Survey Statistics and Methodology.  
+Tucker, C., Lepkowski, J. M., & Piekarski, L. (2002). The Current Efficiency of List- Assisted Telephone 
+Sampling Designs. Public Opinion Quarterly, 66, 321–338. 
+Valliant, R., and Dever, J.A. (2018). Survey Weights: A Step-by-step Guide to Calculation. College Station 
+TX: Stata Press. 
+Waksberg, J. (1978). Sampling Methods for Random Digit Dialing. Journal of the American Statistical 
+Association, 73(361), 40–46. 
+Wolter, K. M. (2007). Introduction to variance estimation (2nd ed.). Springer Series in Statistics. 

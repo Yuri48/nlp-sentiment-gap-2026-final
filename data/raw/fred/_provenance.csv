@@ -1,0 +1,25 @@
+series_id,description,frequency,units,source,n_obs,first,last,downloaded,url
+UMCSENT,University of Michigan: Consumer Sentiment (headline index),M,Index 1966Q1=100,UMich via FRED,676,1952-11-01,2026-08-01,2026-10-14,https://fred.stlouisfed.org/series/UMCSENT
+MICH,University of Michigan: 1-year inflation expectation (median),M,percent,UMich via FRED,584,1978-01-01,2026-08-01,2026-10-14,https://fred.stlouisfed.org/series/MICH
+UNRATE,"Civilian unemployment rate U-3, SA",M,percent,BLS,944,1948-01-01,2026-09-01,2026-10-14,https://fred.stlouisfed.org/series/UNRATE
+U6RATE,"Total unemployed + marginally attached + part-time for economic reasons (U-6), SA",M,percent,BLS,392,1994-01-01,2026-09-01,2026-10-14,https://fred.stlouisfed.org/series/U6RATE
+PAYEMS,"Total nonfarm payroll employment, SA",M,thousands,BLS,1053,1939-01-01,2026-09-01,2026-10-14,https://fred.stlouisfed.org/series/PAYEMS
+PCEPI,"PCE price index, SA",M,Index 2017=100,BEA,812,1959-01-01,2026-08-01,2026-10-14,https://fred.stlouisfed.org/series/PCEPI
+PCEPILFE,"PCE price index excluding food and energy, SA",M,Index 2017=100,BEA,812,1959-01-01,2026-08-01,2026-10-14,https://fred.stlouisfed.org/series/PCEPILFE
+CPIAUCSL,"CPI-U all items, SA",M,Index 1982-84=100,BLS,956,1947-01-01,2026-09-01,2026-10-14,https://fred.stlouisfed.org/series/CPIAUCSL
+CPIUFDSL,"CPI-U food, SA",M,Index 1982-84=100,BLS,956,1947-01-01,2026-09-01,2026-10-14,https://fred.stlouisfed.org/series/CPIUFDSL
+CUSR0000SEHA,"CPI-U rent of primary residence, SA",M,Index 1982-84=100,BLS,548,1981-01-01,2026-09-01,2026-10-14,https://fred.stlouisfed.org/series/CUSR0000SEHA
+GASREGW,US regular all formulations gasoline price,W,dollars per gallon,EIA,1881,1990-08-20,2026-10-12,2026-10-14,https://fred.stlouisfed.org/series/GASREGW
+GDPC1,"Real GDP, SAAR",Q,billions of chained 2017 dollars,BEA,318,1947-01-01,2026-04-01,2026-10-14,https://fred.stlouisfed.org/series/GDPC1
+A229RX0,Real disposable personal income per capita,M,chained 2017 dollars,BEA,812,1959-01-01,2026-08-01,2026-10-14,https://fred.stlouisfed.org/series/A229RX0
+DSPIC96,Real disposable personal income,M,billions chained 2017 dollars,BEA,812,1959-01-01,2026-08-01,2026-10-14,https://fred.stlouisfed.org/series/DSPIC96
+PSAVERT,Personal saving rate,M,percent,BEA,812,1959-01-01,2026-08-01,2026-10-14,https://fred.stlouisfed.org/series/PSAVERT
+TDSP,Household debt service payments as % of disposable income,Q,percent,Federal Reserve,86,2005-01-01,2026-04-01,2026-10-14,https://fred.stlouisfed.org/series/TDSP
+MORTGAGE30US,30-year fixed mortgage rate,W,percent,Freddie Mac,2898,1971-04-02,2026-10-08,2026-10-14,https://fred.stlouisfed.org/series/MORTGAGE30US
+MSPUS,Median sales price of houses sold,Q,dollars,Census/HUD,254,1963-01-01,2026-04-01,2026-10-14,https://fred.stlouisfed.org/series/MSPUS
+USEPUINDXM,"Economic Policy Uncertainty index (Baker-Bloom-Davis), monthly",M,index,policyuncertainty.com via FRED,501,1985-01-01,2026-09-01,2026-10-14,https://fred.stlouisfed.org/series/USEPUINDXM
+FEDFUNDS,Effective federal funds rate,M,percent,Federal Reserve,867,1954-07-01,2026-09-01,2026-10-14,https://fred.stlouisfed.org/series/FEDFUNDS
+LES1252881600Q,"Median usual weekly real earnings, full-time wage & salary workers",Q,1982-84 dollars,BLS,189,1979-01-01,2026-04-01,2026-10-14,https://fred.stlouisfed.org/series/LES1252881600Q
+RSXFS,Advance retail sales ex food services,M,millions of dollars,Census,416,1992-01-01,2026-08-01,2026-10-14,https://fred.stlouisfed.org/series/RSXFS
+USREC,NBER recession indicator,M,0/1,NBER via FRED,2062,1854-12-01,2026-09-01,2026-10-14,https://fred.stlouisfed.org/series/USREC
+SP500,S&P 500 index (daily),D,index,S&P via FRED,2512,2016-10-14,2026-10-13,2026-10-14,https://fred.stlouisfed.org/series/SP500

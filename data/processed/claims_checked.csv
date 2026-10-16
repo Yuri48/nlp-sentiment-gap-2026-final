@@ -1,0 +1,251 @@
+item_id,kind,month,domain,source_type,indicator,claimed,period,official,official_ref,basis,abs_error,status
+n20260730143000_417,news,2026-07,kurv.com,local_other,gdp_qoq_ann,1.5,2026-Q2,2.2202083203100687,2026-04-01,stated period (latest data),0.7202083203100687,wrong
+n20261005143000_91,news,2026-10,1033wvyb.com,other,gas_price,-0.29,2026-10,,,,,unverifiable_local
+n20260911143000_250,news,2026-09,news8000.com,other,other,6.0,2026-09,,,,,unverifiable
+n20260916143000_818,news,2026-09,idahostatejournal.com,local_other,other,1.2,2026-08,,,,,unverifiable
+n20261014143000_1233,news,2026-10,indiatimes.com,local_other,cpi_yoy,3.7,2026-09,3.7172508442689933,2026-09-01,stated period (latest data),0.01725084426899315,accurate
+n20260723143000_1081,news,2026-07,iheart.com,other,other,187000.0,2026-07,,,,,unverifiable
+n20260904143000_317,news,2026-09,hotair.com,national_other,jobs_added,162.0,2026-08,162.0,2026-08-01,first release (payroll vintage),0.0,accurate
+n20260720143000_749,news,2026-07,nypost.com,national,gas_price,4.0,,4.001,2026-07-20,latest release at publication (latest data),0.001000000000000334,accurate
+n20260903143000_1116,news,2026-09,leadertelegram.com,other,other,206000.0,,,,,,unverifiable
+n20260812143000_1238,news,2026-08,cbsnews.com,national,cpi_yoy,3.4,2026-07,3.303856050706311,2026-07-01,stated period (latest data),0.09614394929368908,accurate
+n20260706143000_993,news,2026-07,clickondetroit.com,local_other,gas_price,4.0,2026-07,,,,,unverifiable_local
+n20260806143000_926,news,2026-08,dailypress.com,local_other,other,199000.0,2026-08,,,,,unverifiable
+n20260904203000_1169,news,2026-09,columbian.com,other,jobs_added,162.0,2026-08,162.0,2026-08-01,first release (payroll vintage),0.0,accurate
+n20261010143000_803,news,2026-10,foxnews.com,national,jobs_added,72.0,,29.0,2026-09-01,first release (payroll vintage),43.0,accurate
+n20261014143000_908,news,2026-10,chicagotribune.com,local,cpi_yoy,3.7,2026-09,3.7172508442689933,2026-09-01,stated period (latest data),0.01725084426899315,accurate
+n20260630143000_1233,news,2026-06,presstelegram.com,local_other,unemployment_rate,10.0,,,,,,unverifiable_local
+n20261005143000_176,news,2026-10,whtc.com,local_other,gas_price,-0.22,,,,,,unverifiable_local
+n20260702143000_784,news,2026-07,iheart.com,other,jobs_added,57.0,2026-06,57.0,2026-06-01,first release (payroll vintage),0.0,accurate
+n20260714143000_1567,news,2026-07,theepochtimes.com,national_other,cpi_yoy,3.5,,3.463530729385411,2026-06-01,latest release at publication (latest data),0.03646927061458882,accurate
+n20260331143000_377,news,2026-03,news8000.com,other,gas_price,4.0,2026-03,3.99,2026-03-30,latest release at publication (latest data),0.009999999999999787,accurate
+n20260302203000_218,news,2026-03,nypost.com,national,gas_price,3.0,2026-03,3.015,2026-03-02,latest release at publication (latest data),0.015000000000000124,accurate
+n20260807143000_710,news,2026-08,akronnewsreporter.com,other,jobs_added,-23.0,2026-08,162.0,2026-08-01,first release (payroll vintage),185.0,stale
+n20260820143000_834,news,2026-08,newson6.com,other,other,40000000000000.0,2026-08,,,,,unverifiable
+n20260406143000_934,news,2026-04,kdhlradio.com,local_other,gas_price,0.166,2026-04,,,,,unverifiable_local
+n20260511203000_1699,news,2026-05,bloomberg.com,national,gas_price,4.52,2026-05,4.5,2026-05-11,latest release at publication (latest data),0.019999999999999574,accurate
+n20261014203000_54,news,2026-10,wxow.com,local_other,cpi_yoy,3.7,2026-09,3.7172508442689933,2026-09-01,stated period (latest data),0.01725084426899315,accurate
+n20260807203000_1101,news,2026-08,whdh.com,local_other,jobs_added,-23.0,2026-07,,,,,unverifiable_local
+n20260730143000_727,news,2026-07,kurv.com,local_other,other,197000.0,2026-07,,,,,unverifiable
+n20260904143000_201,news,2026-09,moneycontrol.com,other,jobs_added,162.0,2026-08,162.0,2026-08-01,first release (payroll vintage),0.0,accurate
+n20260204143000_213,news,2026-02,foxbusiness.com,national,jobs_added,22.0,2026-01,130.0,2026-01-01,first release (payroll vintage),108.0,stale
+n20260611143000_753,news,2026-06,naturalnews.com,other,cpi_yoy,4.2,2026-05,4.166614684049641,2026-05-01,stated period (latest data),0.03338531595035921,accurate
+n20260403143000_1081,news,2026-04,breitbart.com,national,jobs_added,178.0,,-92.0,2026-02-01,first release (payroll vintage),270.0,stale
+n20260716143000_1337,news,2026-07,lowellsun.com,other,other,0.2,2026-06,,,,,unverifiable
+n20260306143000_538,news,2026-03,nypost.com,national,jobs_added,-92.0,2026-02,-92.0,2026-02-01,first release (payroll vintage),0.0,accurate
+n20260730203000_656,news,2026-07,upi.com,national_other,gdp_qoq_ann,1.5,2026-Q2,2.2202083203100687,2026-04-01,stated period (latest data),0.7202083203100687,wrong
+n20260910143000_1471,news,2026-09,elpasoinc.com,other,other,206000.0,2026-09,,,,,unverifiable
+n20260820143000_1251,news,2026-08,thesunchronicle.com,local_other,other,206000.0,2026-08,,,,,unverifiable
+n20260702143000_720,news,2026-07,nbclosangeles.com,other,jobs_added,57.0,2026-06,57.0,2026-06-01,first release (payroll vintage),0.0,accurate
+n20260910143000_408,news,2026-09,dailypress.com,local_other,other,206000.0,2026-09,,,,,unverifiable
+n20260715203000_333,news,2026-07,theitem.com,other,other,-0.3,2026-06,,,,,unverifiable
+n20260727203000_644,news,2026-07,freedom929.com,other,gas_price,0.85,,,,,,unverifiable_local
+n20260220203000_1133,news,2026-02,washingtonexaminer.com,national,other,2.2,,,,,,unverifiable
+n20260430143000_755,news,2026-04,cbsnews.com,national,gdp_qoq_ann,2.0,2026-Q1,2.491776410825386,2026-01-01,stated period (latest data),0.4917764108253859,accurate
+n20260914203000_480,news,2026-09,suncommercial.com,local_other,gas_price,0.3,,,,,,unverifiable_local
+n20260512203000_1528,news,2026-05,texarkanagazette.com,local_other,cpi_yoy,3.8,,3.7792458367415627,2026-04-01,latest release at publication (latest data),0.020754163258437153,accurate
+n20260625143000_335,news,2026-06,cnn.com,national,cpi_yoy,4.0,2026-05,4.166614684049641,2026-05-01,stated period (latest data),0.16661468404964097,accurate
+n20260625143000_272,news,2026-06,upi.com,national_other,cpi_yoy,3.4,2026-05,4.166614684049641,2026-05-01,stated period (latest data),0.7666146840496411,stale
+n20261014203000_1270,news,2026-10,ktvz.com,local_other,unemployment_rate,5.0,,,,,,unverifiable_local
+n20260916203000_104,news,2026-09,,,fed_funds,0.25,,,,,,unverifiable
+n20260901143000_912,news,2026-09,elpasoinc.com,other,other,7300000.0,2026-07,,,,,unverifiable
+n20260211143000_517,news,2026-02,nypost.com,national,jobs_added,130.0,2026-01,130.0,2026-01-01,first release (payroll vintage),0.0,accurate
+n20260625143000_647,news,2026-06,,,gdp_qoq_ann,2.1,2026-Q1,,,,,unverifiable
+n20260904143000_862,news,2026-09,ocregister.com,local_other,other,5.85,2026-09,,,,,unverifiable
+n20260915203000_1348,news,2026-09,wftv.com,local_other,gas_price,4.15,2026-09,,,,,unverifiable_local
+n20260330143000_1356,news,2026-03,wwltv.com,local_other,gas_price,4.0,2026-03,3.99,2026-03-30,latest release at publication (latest data),0.009999999999999787,accurate
+n20260721203000_659,news,2026-07,stuttgartdailyleader.com,local_other,unemployment_rate,4.1,2026-06,,,,,unverifiable_local
+n20260817143000_704,news,2026-08,panow.com,other,cpi_yoy,3.0,2026-07,3.303856050706311,2026-07-01,stated period (latest data),0.30385605070631083,stale
+n20260316143000_228,news,2026-03,cbs2iowa.com,local_other,gas_price,3.34,2026-03,,,,,unverifiable_local
+n20261014203000_896,news,2026-10,butlereagle.com,other,cpi_yoy,3.7,2026-09,3.7172508442689933,2026-09-01,stated period (latest data),0.01725084426899315,accurate
+n20260306143000_798,news,2026-03,breitbart.com,national,jobs_added,-92.0,2026-02,-92.0,2026-02-01,first release (payroll vintage),0.0,accurate
+n20260306143000_798,news,2026-03,breitbart.com,national,unemployment_rate,4.4,2026-02,4.3,2026-01-01,latest release at publication (vintage),0.10000000000000053,accurate
+n20261010203000_328,news,2026-10,torontotelegraph.com,other,other,197000.0,2026-10,,,,,unverifiable
+n20260211143000_1779,news,2026-02,cbsnews.com,national,jobs_added,130.0,2026-01,130.0,2026-01-01,first release (payroll vintage),0.0,accurate
+n20260916143000_941,news,2026-09,republicanherald.com,local_other,other,1.2,2026-08,,,,,unverifiable
+n20261002203000_1177,news,2026-10,irishsun.com,other,unemployment_rate,4.2,2026-09,4.1,2026-08-01,latest release at publication (vintage),0.10000000000000053,accurate
+n20260421143000_1245,news,2026-04,thereporteronline.com,other,other,1.7,2026-03,,,,,unverifiable
+n20260924143000_923,news,2026-09,mcall.com,other,other,197000.0,,,,,,unverifiable
+n20260715143000_1184,news,2026-07,canoncitydailyrecord.com,local_other,other,-0.3,2026-06,,,,,unverifiable
+n20260403143000_215,news,2026-04,canoncitydailyrecord.com,local_other,jobs_added,178.0,2026-03,178.0,2026-03-01,first release (payroll vintage),0.0,accurate
+n20260211203000_1408,news,2026-02,hotair.com,national_other,jobs_added,130.0,2026-01,130.0,2026-01-01,first release (payroll vintage),0.0,accurate
+n20260305143000_1533,news,2026-03,bozemandailychronicle.com,local_other,other,213000.0,2026-03,,,,,unverifiable
+n20260430143000_1679,news,2026-04,akronnewsreporter.com,other,other,189000.0,2026-04,,,,,unverifiable
+n20260604143000_1255,news,2026-06,iheart.com,other,other,225000.0,2026-06,,,,,unverifiable
+n20260326143000_1052,news,2026-03,financialcontent.com,other,other,205000.0,2026-03,,,,,unverifiable
+n20260505203000_1737,news,2026-05,latimes.com,local,other,6900000.0,2026-03,,,,,unverifiable
+n20260306143000_1267,news,2026-03,npr.org,national_other,jobs_added,-92.0,2026-01,130.0,2026-01-01,first release (payroll vintage),222.0,wrong
+n20260624203000_1284,news,2026-06,journalgazette.net,local_other,unemployment_rate,3.0,,4.3,2026-05-01,latest release at publication (vintage),1.2999999999999998,wrong
+n20260528143000_571,news,2026-05,theepochtimes.com,national_other,gdp_qoq_ann,1.6,2026-Q1,2.491776410825386,2026-01-01,stated period (latest data),0.8917764108253858,wrong
+n20261002143000_948,news,2026-10,kztv10.com,local_other,unemployment_rate,4.2,2026-09,4.1,2026-08-01,latest release at publication (vintage),0.10000000000000053,accurate
+n20261002143000_948,news,2026-10,kztv10.com,local_other,jobs_added,29.0,2026-09,29.0,2026-09-01,first release (payroll vintage),0.0,accurate
+n20261005203000_3,news,2026-10,wbiw.com,local_other,gas_price,3.73,2026-10,,,,,unverifiable_local
+n20260401143000_1120,news,2026-04,foxbusiness.com,national,jobs_added,62.0,2026-03,178.0,2026-03-01,first release (payroll vintage),116.0,wrong
+n20260716143000_611,news,2026-07,clickondetroit.com,local_other,other,208000.0,2026-07,,,,,unverifiable
+n20260526143000_822,news,2026-05,washingtonexaminer.com,national,gas_price,4.5,2026-05,4.475,2026-05-25,latest release at publication (latest data),0.025000000000000355,accurate
+n20260911203000_257,news,2026-09,,,cpi_yoy,3.4,,,,,,unverifiable
+n20261014143000_270,news,2026-10,clickorlando.com,other,other,3.6,,,,,,unverifiable
+n20260306143000_740,news,2026-03,cbsnews.com,national,jobs_added,-92.0,2026-02,-92.0,2026-02-01,first release (payroll vintage),0.0,accurate
+n20260501143000_137,news,2026-05,wbir.com,local_other,gas_price,0.09,2026-05,4.123,2026-04-27,latest release at publication (latest data),4.033,wrong
+n20260216203000_807,news,2026-02,wpde.com,local_other,gas_price,2.55,2026-02,,,,,unverifiable_local
+n20261001143000_1275,news,2026-10,thereporteronline.com,other,other,197000.0,,,,,,unverifiable
+n20260720143000_883,news,2026-07,wxyz.com,local_other,gas_price,4.0,2026-07,,,,,unverifiable_local
+n20260930143000_874,news,2026-09,goskagit.com,other,gdp_qoq_ann,2.2,2026-Q2,2.2202083203100687,2026-04-01,stated period (latest data),0.020208320310068473,accurate
+n20260910143000_657,news,2026-09,1011now.com,other,other,5.4,2026-08,,,,,unverifiable
+n20251120143000_1100,news,2025-11,cbsnews.com,national,jobs_added,119.0,2025-09,119.0,2025-09-01,first release (payroll vintage),0.0,accurate
+n20260929143000_1154,news,2026-09,newsroomamerica.com,other,other,7100000.0,2026-08,,,,,unverifiable
+n20260331143000_1054,news,2026-03,winnipegfreepress.com,local_other,other,6900000.0,2026-02,,,,,unverifiable
+n20260921143000_816,news,2026-09,kfilradio.com,local_other,other,0.3,,,,,,unverifiable
+n20260109143000_15,news,2026-01,forbes.com,national_other,unemployment_rate,4.4,2025-12,4.4,2025-09-01,latest release at publication (vintage),0.0,accurate
+n20260908143000_865,news,2026-09,wlwt.com,local_other,gas_price,4.15,2026-09,4.157,2026-09-07,latest release at publication (latest data),0.006999999999999673,accurate
+n20260605143000_758,news,2026-06,investmentexecutive.com,other,jobs_added,172.0,2026-05,172.0,2026-05-01,first release (payroll vintage),0.0,accurate
+n20251202143000_465,news,2025-12,cnn.com,national,gas_price,3.0,2025-12,2.985,2025-12-01,stated period (latest data),0.015000000000000124,accurate
+n20260327143000_1206,news,2026-03,power959.com,other,gas_price,4.0,2026-03,,,,,unverifiable_local
+n20260423143000_1189,news,2026-04,ocregister.com,local_other,other,214000.0,2026-04,,,,,unverifiable
+n20260401143000_562,news,2026-04,upi.com,national_other,jobs_added,62.0,2026-03,178.0,2026-03-01,first release (payroll vintage),116.0,wrong
+n20260223143000_789,news,2026-02,mix949.com,other,gas_price,12.9,,,,,,unverifiable_local
+n20260105203000_1101,news,2026-01,mdjonline.com,other,other,75.0,,,,,,unverifiable
+n20260105203000_1101,news,2026-01,mdjonline.com,other,other,46.0,,,,,,unverifiable
+n20260508143000_331,news,2026-05,upi.com,national_other,jobs_added,115.0,2026-04,115.0,2026-04-01,first release (payroll vintage),0.0,accurate
+n20251231143000_7,news,2025-12,,,other,200000.0,,,,,,unverifiable
+n20260403143000_848,news,2026-04,tribdem.com,other,jobs_added,178.0,2026-03,178.0,2026-03-01,first release (payroll vintage),0.0,accurate
+n20260611143000_1117,news,2026-06,eptrail.com,other,other,6.5,2026-05,,,,,unverifiable
+n20260724203000_1296,news,2026-07,lewistownnews.com,other,unemployment_rate,3.3,,,,,,unverifiable_local
+n20260618143000_652,news,2026-06,wral.com,local_other,other,226000.0,,,,,,unverifiable
+n20251121143000_619,news,2025-11,forbes.com,national_other,jobs_added,119.0,,,,,,unverifiable
+n20260113203000_1443,news,2026-01,turnto23.com,other,unemployment_rate,7.8,2025-11,,,,,unverifiable_local
+n20260513143000_74,news,2026-05,indiatimes.com,local_other,other,6.0,2026-04,,,,,unverifiable
+n20260605143000_971,news,2026-06,,,jobs_added,172000.0,2026-05,,,,,unverifiable
+n20260109203000_857,news,2026-01,upi.com,national_other,jobs_added,50.0,2025-12,50.0,2025-12-01,first release (payroll vintage),0.0,accurate
+n20251216143000_1150,news,2025-12,abcnews4.com,other,gas_price,2.79,2025-12,2.985,2025-12-01,stated period (latest data),0.19499999999999984,accurate
+n20260918203000_136,news,2026-09,wbjournal.com,local_other,jobs_added,-7.1,2026-08,162.0,2026-08-01,first release (payroll vintage),169.1,stale
+n20260113143000_708,news,2026-01,nypost.com,national,cpi_yoy,2.7,2025-12,2.653304114557753,2025-12-01,stated period (latest data),0.04669588544224723,accurate
+n20260430143000_519,news,2026-04,clickorlando.com,other,other,189000.0,2026-04,,,,,unverifiable
+n20260605203000_933,news,2026-06,wyff4.com,local_other,unemployment_rate,4.3,,4.3,2026-04-01,latest release at publication (vintage),0.0,accurate
+n20260615143000_1113,news,2026-06,kdhlradio.com,local_other,gas_price,4.0,2026-06,4.305,2026-06-01,stated period (latest data),0.3049999999999997,stale
+n20260720143000_62,news,2026-07,myfox28columbus.com,local_other,gas_price,3.9,2026-07,,,,,unverifiable_local
+n20261012203000_415,news,2026-10,ghanamma.com,other,gas_price,4.0,2026-10,4.331,2026-10-12,latest release at publication (latest data),0.3310000000000004,stale
+n20260702143000_914,news,2026-07,iheart.com,other,jobs_added,57.0,2026-06,57.0,2026-06-01,first release (payroll vintage),0.0,accurate
+n20260617203000_1102,news,2026-06,kcby.com,local_other,unemployment_rate,5.2,2026-05,,,,,unverifiable_local
+n20260617203000_1102,news,2026-06,kcby.com,local_other,jobs_added,3.6,2026-05,,,,,unverifiable_local
+n20260403143000_52,news,2026-04,npr.org,national_other,jobs_added,178.0,,-92.0,2026-02-01,first release (payroll vintage),270.0,stale
+n20260212143000_850,news,2026-02,nwaonline.com,other,jobs_added,130.0,2026-01,,,,,unverifiable_local
+n20260509203000_11,news,2026-05,baltimorestar.com,other,jobs_added,115.0,,115.0,2026-04-01,first release (payroll vintage),0.0,accurate
+n20260331143000_923,news,2026-03,ktbs.com,local_other,gas_price,4.0,,3.99,2026-03-30,latest release at publication (latest data),0.009999999999999787,accurate
+n20260904143000_1101,news,2026-09,foxla.com,other,other,5.85,,,,,,unverifiable
+n20260403143000_1051,news,2026-04,kenw.org,local_other,jobs_added,178.0,2026-03,178.0,2026-03-01,first release (payroll vintage),0.0,accurate
+n20260114203000_1488,news,2026-01,dailylocal.com,local_other,other,0.2,2025-11,,,,,unverifiable
+n20260827143000_1383,news,2026-08,reporterherald.com,local_other,other,203000.0,,,,,,unverifiable
+n20260403143000_732,news,2026-04,indiatimes.com,local_other,jobs_added,178.0,2026-03,178.0,2026-03-01,first release (payroll vintage),0.0,accurate
+n20260312143000_281,news,2026-03,wxyz.com,local_other,gas_price,0.55,,3.502,2026-03-09,latest release at publication (latest data),2.952,wrong
+n20260619203000_795,news,2026-06,hometownregister.com,local_other,gas_price,4.0,,,,,,unverifiable_local
+n20260716143000_683,news,2026-07,clickondetroit.com,local_other,other,0.2,2026-06,,,,,unverifiable
+n20260408143000_1249,news,2026-04,kgw.com,local_other,gas_price,5.0,,,,,,unverifiable_local
+n20260610143000_1107,news,2026-06,webindia123.com,other,cpi_yoy,4.2,2026-05,4.166614684049641,2026-05-01,stated period (latest data),0.03338531595035921,accurate
+n20260615143000_803,news,2026-06,kpic.com,local_other,gas_price,0.1,2026-06,,,,,unverifiable_local
+n20260702143000_815,news,2026-07,fox6now.com,local_other,jobs_added,57.0,2026-06,57.0,2026-06-01,first release (payroll vintage),0.0,accurate
+n20260730143000_768,news,2026-07,citizensvoice.com,other,gdp_qoq_ann,1.5,2026-Q2,2.2202083203100687,2026-04-01,stated period (latest data),0.7202083203100687,wrong
+n20251126143000_739,news,2025-11,siouxcityjournal.com,local_other,gas_price,2.75,2025-11,,,,,unverifiable_local
+n20260625143000_1288,news,2026-06,,,other,215000.0,2026-06,,,,,unverifiable
+n20260309143000_1001,news,2026-03,financialcontent.com,other,jobs_added,-92.0,2026-02,-92.0,2026-02-01,first release (payroll vintage),0.0,accurate
+n20241211143000_619,news,2024-12,biztoc.com,other,cpi_yoy,2.6,2024-10,2.578844053871343,2024-10-01,stated period (latest data),0.02115594612865701,accurate
+n20241211143000_619,news,2024-12,biztoc.com,other,cpi_yoy,2.7,2024-11,2.719472461284833,2024-11-01,stated period (latest data),0.01947246128483293,accurate
+n20241206143000_1278,news,2024-12,cbsnews.com,national,jobs_added,227.0,2024-11,227.0,2024-11-01,first release (payroll vintage),0.0,accurate
+n20250110143000_658,news,2025-01,washingtontimes.com,national_other,jobs_added,256.0,2024-12,256.0,2024-12-01,first release (payroll vintage),0.0,accurate
+n20250110143000_658,news,2025-01,washingtontimes.com,national_other,unemployment_rate,4.1,2024-12,4.2,2024-11-01,latest release at publication (vintage),0.10000000000000053,accurate
+n20250703143000_1689,news,2025-07,washingtonexaminer.com,national,jobs_added,147.0,2025-06,147.0,2025-06-01,first release (payroll vintage),0.0,accurate
+n20250307143000_1064,news,2025-03,theepochtimes.com,national_other,jobs_added,151.0,,151.0,2025-02-01,first release (payroll vintage),0.0,accurate
+n20250307143000_1064,news,2025-03,theepochtimes.com,national_other,unemployment_rate,4.1,,4.0,2025-01-01,latest release at publication (vintage),0.09999999999999964,accurate
+n20250612143000_1741,news,2025-06,clickondetroit.com,local_other,other,2.6,2025-05,,,,,unverifiable
+n20241226143000_1181,news,2024-12,marketwatch.com,national,other,219000.0,2024-12,,,,,unverifiable
+n20250606143000_1008,news,2025-06,nbcphiladelphia.com,other,jobs_added,139.0,2025-05,139.0,2025-05-01,first release (payroll vintage),0.0,accurate
+n20250606143000_1008,news,2025-06,nbcphiladelphia.com,other,unemployment_rate,4.2,2025-05,4.2,2025-04-01,latest release at publication (vintage),0.0,accurate
+n20250110143000_363,news,2025-01,zerohedge.com,national_other,jobs_added,256.0,2024-12,256.0,2024-12-01,first release (payroll vintage),0.0,accurate
+n20241211143000_1189,news,2024-12,cbsnews.com,national,cpi_yoy,2.7,2024-11,2.719472461284833,2024-11-01,stated period (latest data),0.01947246128483293,accurate
+n20241206143000_660,news,2024-12,upnorthlive.com,other,jobs_added,227.0,2024-11,227.0,2024-11-01,first release (payroll vintage),0.0,accurate
+n20250307143000_491,news,2025-03,forbes.com,national_other,jobs_added,151.0,2025-02,151.0,2025-02-01,first release (payroll vintage),0.0,accurate
+n20250307143000_491,news,2025-03,forbes.com,national_other,unemployment_rate,4.1,2025-02,4.0,2025-01-01,latest release at publication (vintage),0.09999999999999964,accurate
+n20250110143000_1231,news,2025-01,theepochtimes.com,national_other,jobs_added,256.0,2024-12,256.0,2024-12-01,first release (payroll vintage),0.0,accurate
+n20250110143000_1231,news,2025-01,theepochtimes.com,national_other,unemployment_rate,4.1,2024-12,4.2,2024-11-01,latest release at publication (vintage),0.10000000000000053,accurate
+n20250801143000_1424,news,2025-08,bostonglobe.com,local,jobs_added,73.0,2025-07,73.0,2025-07-01,first release (payroll vintage),0.0,accurate
+n20250110143000_148,news,2025-01,cbsnews.com,national,jobs_added,256.0,2024-12,256.0,2024-12-01,first release (payroll vintage),0.0,accurate
+n20250529143000_1203,news,2025-05,upi.com,national_other,other,14000.0,2025-05,,,,,unverifiable
+s3mxuf3j7uqs2n,social,2026-10,bluesky,social,other,3.6,,,,,,unverifiable
+s3mtzhs5acpc2a,social,2026-08,bluesky,social,cpi_yoy,3.7,,3.353016322755642,2026-08-01,latest release at publication (latest data),0.3469836772443582,stale
+s3mtytowqifc2i,social,2026-08,bluesky,social,other,33.0,,,,,,unverifiable
+s3mtytowqifc2i,social,2026-08,bluesky,social,other,6.4,,,,,,unverifiable
+s3mw7w2w33uc24,social,2026-09,bluesky,social,gas_price,8.0,,4.478,2026-09-21,latest release at publication (latest data),3.5220000000000002,wrong
+s3mxujqmzvo22v,social,2026-10,bluesky,social,gas_price,5.0,2026-10,4.331,2026-10-12,latest release at publication (latest data),0.6689999999999996,wrong
+s3mxd2sp632s2g,social,2026-10,bluesky,social,cpi_yoy,9.0,,3.7172508442689933,2026-09-01,latest release at publication (latest data),5.282749155731007,wrong
+s3mtzelcvhf52t,social,2026-08,bluesky,social,pce_yoy,3.7,2026-07,3.3615431894473025,2026-07-01,stated period (latest data),0.3384568105526977,stale
+s3mtzglju5pc2v,social,2026-08,bluesky,social,pce_yoy,3.7,2026-07,3.3615431894473025,2026-07-01,stated period (latest data),0.3384568105526977,stale
+s3mxty4k56jk2s,social,2026-10,bluesky,social,other,3.7,,,,,,unverifiable
+s3mtyuo3bdqs2y,social,2026-08,bluesky,social,gas_price,4.07,,4.085,2026-08-24,latest release at publication (latest data),0.01499999999999968,accurate
+s3mxuiqsgxlc2f,social,2026-10,bluesky,social,cpi_yoy,3.7,2026-09,3.7172508442689933,2026-09-01,stated period (latest data),0.01725084426899315,accurate
+s3mtzevbx7cc2o,social,2026-08,bluesky,social,cpi_yoy,3.7,2026-07,3.303856050706311,2026-07-01,stated period (latest data),0.39614394929368935,stale
+s3mxtwkdcwus27,social,2026-10,bluesky,social,other,43.7,,,,,,unverifiable
+s3mxtwkdcwus27,social,2026-10,bluesky,social,other,3.7,,,,,,unverifiable
+s3mxtwkdcwus27,social,2026-10,bluesky,social,other,12.7,,,,,,unverifiable
+s3mxtwkdcwus27,social,2026-10,bluesky,social,other,14.6,,,,,,unverifiable
+s3mxtwkdcwus27,social,2026-10,bluesky,social,other,7.6,,,,,,unverifiable
+s3mxtwkdcwus27,social,2026-10,bluesky,social,other,5.1,,,,,,unverifiable
+s3mxuedp4m6c2m,social,2026-10,bluesky,social,cpi_yoy,3.7,2026-09,3.7172508442689933,2026-09-01,stated period (latest data),0.01725084426899315,accurate
+s3mukrwwshh22h,social,2026-09,bluesky,social,other,40.0,,,,,,unverifiable
+s3mxtytrjvrs2x,social,2026-10,bluesky,social,jobs_added,4.5,,,,,,unverifiable_local
+s3mtxgzexesc2s,social,2026-08,bluesky,social,other,9.9,,,,,,unverifiable
+s3mxuma6qob22l,social,2026-10,bluesky,social,cpi_yoy,3.7,2026-09,3.7172508442689933,2026-09-01,stated period (latest data),0.01725084426899315,accurate
+s3mtz2g6jbh225,social,2026-08,bluesky,social,gdp_qoq_ann,2.2,2026-Q1,2.491776410825386,2026-01-01,stated period (latest data),0.29177641082538575,accurate
+s3mtz2g6jbh225,social,2026-08,bluesky,social,gdp_qoq_ann,1.5,2026-Q2,2.2202083203100687,2026-04-01,stated period (latest data),0.7202083203100687,wrong
+s3moiz7zvdas2a,social,2026-06,bluesky,social,cpi_yoy,9.2,,3.463530729385411,2026-06-01,latest release at publication (latest data),5.736469270614588,wrong
+s3mxulvuwpp224,social,2026-10,bluesky,social,gas_price,9.1,2026-09,4.331,2026-10-12,latest release at publication (latest data),4.768999999999999,wrong
+s3mv4qa4pu4s2d,social,2026-09,bluesky,social,other,24.0,,,,,,unverifiable
+s3mxu7q65rl225,social,2026-10,bluesky,social,other,100.0,,,,,,unverifiable
+s3mnxw4sogm22h,social,2026-06,bluesky,social,cpi_yoy,4.2,2026-05,4.166614684049641,2026-05-01,stated period (latest data),0.03338531595035921,accurate
+s3mrbjpu74pc2l,social,2026-07,bluesky,social,jobs_added,-75.0,,57.0,2026-06-01,first release (payroll vintage),132.0,wrong
+s3mrbjpu74pc2l,social,2026-07,bluesky,social,jobs_added,625.0,,57.0,2026-06-01,first release (payroll vintage),568.0,wrong
+s3mtzhgl6dnc2e,social,2026-08,bluesky,social,other,2.9,,,,,,unverifiable
+s3mohp2avgds2g,social,2026-06,bluesky,social,other,3.8,,,,,,unverifiable
+s3mohp2avgds2g,social,2026-06,bluesky,social,jobs_added,-83.0,2026-04,115.0,2026-04-01,first release (payroll vintage),198.0,wrong
+s3mxczz4g6lc2b,social,2026-10,bluesky,social,other,66000000.0,,,,,,unverifiable
+s3mvnwd7xwp22o,social,2026-09,bluesky,social,other,-5000000.0,,,,,,unverifiable
+s3mxcesyfvyc2s,social,2026-10,bluesky,social,other,39.0,,,,,,unverifiable
+s3muivpmibik2i,social,2026-09,bluesky,social,other,4.0,,,,,,unverifiable
+s3mxujalpqx22j,social,2026-10,bluesky,social,other,5.4,,,,,,unverifiable
+s3mxujalpqx22j,social,2026-10,bluesky,social,other,3.7,,,,,,unverifiable
+s3mxujalpqx22j,social,2026-10,bluesky,social,other,3.3,,,,,,unverifiable
+s3mxujalpqx22j,social,2026-10,bluesky,social,other,6.9,,,,,,unverifiable
+s3mxujalpqx22j,social,2026-10,bluesky,social,other,10.9,,,,,,unverifiable
+s3mxujalpqx22j,social,2026-10,bluesky,social,other,21.5,,,,,,unverifiable
+s3mthsxadiak2a,social,2026-08,bluesky,social,other,40000000000000.0,,,,,,unverifiable
+s3mxud4fvqi22w,social,2026-10,bluesky,social,cpi_yoy,3.7,,3.7172508442689933,2026-09-01,latest release at publication (latest data),0.01725084426899315,accurate
+s3mxuhjokc6c2f,social,2026-10,bluesky,social,cpi_yoy,9.0,,3.7172508442689933,2026-09-01,latest release at publication (latest data),5.282749155731007,wrong
+s3mkoaji4dg22l,social,2026-04,bluesky,social,gas_price,4.176,2026-04,,,,,unverifiable_local
+s3mkoaji4dg22l,social,2026-04,bluesky,social,gas_price,4.99,2026-04,,,,,unverifiable_local
+s3mxczpxadtc2c,social,2026-10,bluesky,social,other,32.0,,,,,,unverifiable
+s3mk4nrk7wx22l,social,2026-04,bluesky,social,other,25.0,,,,,,unverifiable
+s3msvltwbdds2b,social,2026-08,bluesky,social,cpi_yoy,3.4,2026-07,3.303856050706311,2026-07-01,stated period (latest data),0.09614394929368908,accurate
+s3msvltwbdds2b,social,2026-08,bluesky,social,cpi_mom,0.1,2026-07,0.07366914435544825,2026-07-01,stated period (latest data),0.02633085564455176,accurate
+s3mojhezo4422b,social,2026-06,bluesky,social,cpi_yoy,4.2,,3.463530729385411,2026-06-01,latest release at publication (latest data),0.736469270614589,stale
+s3miyu2fiycc2g,social,2026-04,bluesky,social,cpi_yoy,8.0,,3.2859577528651984,2026-03-01,latest release at publication (latest data),4.714042247134802,wrong
+s3miyu2fiycc2g,social,2026-04,bluesky,social,cpi_yoy,13.5,,3.2859577528651984,2026-03-01,latest release at publication (latest data),10.214042247134802,wrong
+s3mxuji7pud22p,social,2026-10,bluesky,social,cpi_yoy,13.0,,3.7172508442689933,2026-09-01,latest release at publication (latest data),9.282749155731008,wrong
+s3mnx7ypqas224,social,2026-06,bluesky,social,other,23.0,,,,,,unverifiable
+s3mxtwpoxqbc2s,social,2026-10,bluesky,social,cpi_yoy,3.7,,3.7172508442689933,2026-09-01,latest release at publication (latest data),0.01725084426899315,accurate
+s3mfpdwzzdrc2t,social,2026-02,bluesky,social,jobs_added,-130.0,,130.0,2026-01-01,first release (payroll vintage),260.0,stale
+s3mfpdwzzdrc2t,social,2026-02,bluesky,social,jobs_added,-50.0,,130.0,2026-01-01,first release (payroll vintage),180.0,stale
+s3mtzj4qgqxs2b,social,2026-08,bluesky,social,other,5.62,2026-08,,,,,unverifiable
+s3mng4uf5zyk24,social,2026-06,bluesky,social,cpi_yoy,3.4,,4.166614684049641,2026-05-01,latest release at publication (latest data),0.7666146840496411,stale
+s3mng4uf5zyk24,social,2026-06,bluesky,social,cpi_yoy,2.9,,4.166614684049641,2026-05-01,latest release at publication (latest data),1.266614684049641,stale
+s3mem5lju2mk2e,social,2026-02,bluesky,social,jobs_added,584.0,,130.0,2026-01-01,first release (payroll vintage),454.0,wrong
+s3mem5lju2mk2e,social,2026-02,bluesky,social,jobs_added,180.0,,130.0,2026-01-01,first release (payroll vintage),50.0,accurate
+s3mhe7lrmwhc2n,social,2026-03,bluesky,social,gas_price,5.0,,3.72,2026-03-16,latest release at publication (latest data),1.2799999999999998,wrong
+s3mtz3ume7fk2g,social,2026-08,bluesky,social,gas_price,4.36,2026-08,,,,,unverifiable_local
+s3mtz3ume7fk2g,social,2026-08,bluesky,social,gas_price,4.26,2026-07,,,,,unverifiable_local
+s3mtz3ume7fk2g,social,2026-08,bluesky,social,gas_price,3.49,2025-08,,,,,unverifiable_local
+s3mihegpqync24,social,2026-04,bluesky,social,cpi_yoy,2.4,,3.2859577528651984,2026-03-01,latest release at publication (latest data),0.8859577528651985,stale
+s3mdifxkhk4s2p,social,2026-01,bluesky,social,gas_price,2.87,2026-01,2.853,2026-01-26,latest release at publication (latest data),0.016999999999999904,accurate
+s3lyiw5mcnjh2a,social,2025-09,bluesky,social,jobs_added,22.0,2025-08,22.0,2025-08-01,first release (payroll vintage),0.0,accurate
+s3lyiw5mcnjh2a,social,2025-09,bluesky,social,unemployment_rate,4.3,2025-08,4.2,2025-07-01,latest release at publication (vintage),0.09999999999999964,accurate
+s3m3rgfa5hi22q,social,2025-10,bluesky,social,gas_price,3.03,,,,,,unverifiable_local
+s3m74hhrvoz22o,social,2025-12,bluesky,social,cpi_yoy,2.0,,2.6964439164939513,2025-11-01,latest release at publication (latest data),0.6964439164939513,wrong
+s3m74hhrvoz22o,social,2025-12,bluesky,social,cpi_yoy,3.0,,2.6964439164939513,2025-11-01,latest release at publication (latest data),0.3035560835060487,stale

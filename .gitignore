@@ -1,0 +1,18 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# raw corpora: large, still growing, and the Bluesky file holds author handles (privacy); re-download with src/collect_*.py
+data/raw/gkg/
+data/raw/bluesky/
+data/raw/gdelt/
+data/raw/gdelt_timelines/
+# per-vintage ALFRED downloads (the merged *_all_vintages.csv files are kept)
+data/raw/alfred/*_20*.csv
+
+# run logs and local tool config
+logs/
+.claude/
+gd2.json

@@ -1,0 +1,30 @@
+date,category,event,relevance,source
+2024-04-01,survey_method,"Michigan Surveys of Consumers begin phasing in web (address-based) interviews; 75/25 phone/web in April, 50/50 May, 25/75 June","Survey-method comparability; level shift risk",https://data.sca.isr.umich.edu/fetchdoc.php?docid=75444
+2024-07-01,survey_method,"Michigan survey web-only from the July 2024 preliminary release; no adjustment factor applied","Break in collection mode; independent estimate of ~9-point downward level effect (Briefing Book)",https://data.sca.isr.umich.edu/fetchdoc.php?docid=75437
+2024-11-05,politics,"US presidential election (Trump elected)","Partisan switch in Michigan sentiment by party affiliation",https://data.sca.isr.umich.edu/tables.php
+2025-01-20,politics,"Trump inauguration","Start of second Trump administration; attribution benchmark period",https://www.whitehouse.gov/
+2025-04-02,trade,"'Liberation Day' reciprocal tariffs announced under IEEPA","Tariff-driven price-level and expectations shock; sentiment fell to 52.2 in April-May 2025",https://www.gtlaw.com/en/insights/2026/5/us-tariff-update-section-122-duties-found-unauthorized-by-law-ieepa-refunds-under-way
+2025-10-01,fiscal,"Federal government shutdown begins (43 days, to 2025-11-12)","BLS October 2025 Employment Situation cancelled; October household survey never collected; CPI delayed",https://www.bls.gov/news.release/archives/empsit_12162025.htm
+2025-11-12,fiscal,"Shutdown ends","Data releases resume; October unemployment rate never published",https://fortune.com/2025/11/19/government-cancels-october-jobs-report-late-unemployment-rate
+2025-12-16,data_release,"November 2025 Employment Situation (unemployment 4.6%, with October household data missing)","Delayed release captured by ALFRED vintages",https://www.bls.gov/news.release/archives/empsit_12162025.htm
+2026-01-31,fiscal,"Partial government shutdown (4 days, to 2026-02-03)","January jobs report delayed to 2026-02-11; January CPI to 2026-02-13",https://www.cnbc.com/2026/02/04/january-jobs-report-government-shutdown.html
+2026-02-14,fiscal,"Department of Homeland Security funding lapse begins (75-76 days, to 2026-04-30); other agencies funded","Longest partial shutdown; TSA pay disruption; BLS/BEA releases NOT affected",https://time.com/article/2026/04/30/dhs-shutdown-funding-bill-house-vote/
+2026-02-20,trade,"Supreme Court (Learning Resources v. Trump, 6-3) holds IEEPA does not authorize tariffs; Section 122 10% global surcharge proclaimed, effective 2026-02-24","Tariff regime change; refund process begins",https://www.nortonrosefulbright.com/en-us/knowledge/publications/20f2de87/potential-refunds-us-supreme-court-overturns-ieepa-tariffs
+2026-04-30,fiscal,"DHS shutdown ends","",https://time.com/article/2026/04/30/dhs-shutdown-funding-bill-house-vote/
+2026-05-07,trade,"Court of International Trade rules Section 122 surcharge unlawful (2-1), relief limited to plaintiffs; appeal allows collection to continue (2026-06-11)","Tariff uncertainty",https://www.skadden.com/insights/publications/2026/05/us-trade-court-strikes-down-section-122-tariffs
+2026-05-01,survey,"Michigan ICS record low 44.8 (May 2026 final)","Lowest reading in the series",https://data.sca.isr.umich.edu/tables.php
+2026-07-24,trade,"Section 122 surcharge expires; new Section 301 duties (10-12.5%) on most imports take effect","Replacement tariffs without statutory expiry",https://uhy-us.com/insights/news/2026/july/tariff-reset-section-122-expires-as-section-301-duties-expand
+2026-07-29,monetary,"FOMC holds at 3.50-3.75% (9-3 vote, three dissents favouring a hike)","",https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm
+2026-08-07,data_release,"July 2026 Employment Situation: payrolls -23k (later revised to +21k)","Negative jobs surprise",https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138
+2026-08-12,data_release,"July 2026 CPI: 3.4% y/y (from 3.5%)","",https://www.nbcnews.com/business/economy/cpi-inflation-july-2026-rcna591698
+2026-09-02,fiscal,"Stopgap funding bill signed; funds government through 2026-12-11","Shutdown averted for October 1",https://perspectives.acct.org/stories/congress-passes-extension-through-december-11
+2026-09-04,data_release,"August 2026 Employment Situation: payrolls +162k, unemployment 4.1%; wage growth 3.1% y/y (five-year low)","Positive jobs surprise, real wages lagging",https://www.cnn.com/2026/09/04/economy/us-jobs-report-august
+2026-09-16,monetary,"FOMC raises target range 25bp to 3.75-4.00% (unanimous); first hike since 2023","Rate hike during pre-election period",https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+2026-10-08,research,"NY Fed study: each 1pp rise in average tariff raised consumer goods prices ~0.25% a year later","Attribution of inflation to tariffs",https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html
+2026-10-09,survey,"Michigan preliminary October 2026: ICS 46.3, Current 44.7 (record low), Expectations 47.3; 1-yr inflation expectations 4.7%","Monitoring window observation",https://www.sca.isr.umich.edu/
+2026-10-14,cutoff,"Project data cutoff (analysis as of this date)","",
+2026-10-23,scheduled,"Michigan final October 2026 release","Prospective update",https://www.sca.isr.umich.edu/
+2026-10-28,scheduled,"FOMC decision (no projections)","Prospective update",https://www.federalreserve.gov/
+2026-10-29,scheduled,"BEA advance estimate Q3 2026 GDP and September PCE","First official Q3 GDP; spreadsheet Q3 value predates this release",https://www.bea.gov/news/schedule
+2026-11-03,politics,"US midterm elections","End of monitoring window",https://www.usa.gov/midterm-elections
+2026-11-06,scheduled,"October 2026 Employment Situation (scheduled)","Prospective update",https://www.bls.gov/schedule/
